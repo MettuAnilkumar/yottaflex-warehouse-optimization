@@ -1,0 +1,4 @@
+carrier_id,name,transport_mode,status
+CAR-000001,Synthetic Carrier 000001,AIR,ACTIVE
+CAR-000002,Synthetic Carrier 000002,RAIL,ACTIVE
+CAR-000003,Synthetic Carrier 000003,OCEAN,ACTIVE

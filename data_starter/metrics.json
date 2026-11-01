@@ -1,0 +1,178 @@
+{
+  "validation": {
+    "passed": true,
+    "issues": []
+  },
+  "pick_metrics": {
+    "waves_with_multi_stop_tours": 532,
+    "comparable_pick_events": 1882,
+    "excluded_pick_events_missing_layout_assignment": 0,
+    "baseline_distance_m": 144535.0,
+    "optimized_distance_m": 110055.0,
+    "savings_pct": 23.86,
+    "throughput": {
+      "order_lines": 2000,
+      "pick_events": 1882,
+      "order_line_slot_coverage_pct": 94.1,
+      "pick_events_by_shift": {
+        "EVE": 876,
+        "DAY": 682,
+        "NIGHT": 324
+      },
+      "pick_events_by_peak_period": {
+        "NORMAL": 1185,
+        "PEAK": 697
+      },
+      "orders": 500,
+      "orders_with_pick_events": 500,
+      "estimated_pick_labor_minutes": 4744.38,
+      "estimated_pick_labor_hours": 79.07,
+      "picks_per_labor_hour": 23.8,
+      "labor_assumptions": {
+        "handling_minutes_per_pick": 1.5,
+        "walking_speed_m_per_minute": 60.0
+      }
+    },
+    "replenishment_impact": {
+      "tasks": 145,
+      "total_labor_minutes": 3716.76,
+      "scheduled_labor_minutes": 3716.76,
+      "deferred_labor_minutes": 955.36,
+      "average_labor_minutes_per_task": 25.63,
+      "over_capacity_tasks": 64,
+      "rescheduled_tasks": 64,
+      "next_shift_allocations": 64,
+      "reschedule_events": 64,
+      "labor_minutes_by_requested_warehouse_date_shift": {
+        "WH-001:2026-01-01:DAY": {
+          "planned": 724.58,
+          "delayed": 246.0,
+          "capacity": 480.0
+        },
+        "WH-001:2026-01-01:EVE": {
+          "planned": 259.08,
+          "delayed": 25.12,
+          "capacity": 480.0
+        },
+        "WH-001:2026-01-01:NIGHT": {
+          "planned": 258.58,
+          "delayed": 0.0,
+          "capacity": 480.0
+        },
+        "WH-002:2026-01-01:DAY": {
+          "planned": 695.76,
+          "delayed": 224.72,
+          "capacity": 480.0
+        },
+        "WH-002:2026-01-01:EVE": {
+          "planned": 471.9,
+          "delayed": 219.84,
+          "capacity": 480.0
+        },
+        "WH-002:2026-01-01:NIGHT": {
+          "planned": 103.74,
+          "delayed": 0.0,
+          "capacity": 480.0
+        },
+        "WH-003:2026-01-01:DAY": {
+          "planned": 716.92,
+          "delayed": 239.68,
+          "capacity": 480.0
+        },
+        "WH-003:2026-01-01:EVE": {
+          "planned": 239.04,
+          "delayed": 0.0,
+          "capacity": 480.0
+        },
+        "WH-003:2026-01-01:NIGHT": {
+          "planned": 247.16,
+          "delayed": 0.0,
+          "capacity": 480.0
+        }
+      },
+      "labor_minutes_by_scheduled_warehouse_date_shift": {
+        "WH-001:2026-01-01:DAY": {
+          "scheduled": 478.58,
+          "remaining_capacity": 1.42
+        },
+        "WH-001:2026-01-01:EVE": {
+          "scheduled": 479.96,
+          "remaining_capacity": 0.04
+        },
+        "WH-001:2026-01-01:NIGHT": {
+          "scheduled": 283.7,
+          "remaining_capacity": 196.3
+        },
+        "WH-002:2026-01-01:DAY": {
+          "scheduled": 471.04,
+          "remaining_capacity": 8.96
+        },
+        "WH-002:2026-01-01:EVE": {
+          "scheduled": 476.78,
+          "remaining_capacity": 3.22
+        },
+        "WH-002:2026-01-01:NIGHT": {
+          "scheduled": 323.58,
+          "remaining_capacity": 156.42
+        },
+        "WH-003:2026-01-01:DAY": {
+          "scheduled": 477.24,
+          "remaining_capacity": 2.76
+        },
+        "WH-003:2026-01-01:EVE": {
+          "scheduled": 478.72,
+          "remaining_capacity": 1.28
+        },
+        "WH-003:2026-01-01:NIGHT": {
+          "scheduled": 247.16,
+          "remaining_capacity": 232.84
+        }
+      }
+    },
+    "slotting_coverage": {
+      "skus": 150,
+      "accepted_active_skus": 145,
+      "coverage_pct": 96.67
+    },
+    "capacity_utilization": {
+      "assigned_locations": 139,
+      "volume_utilization_pct": 12.08,
+      "weight_utilization_pct": 10.48,
+      "denominator": "capacity of valid assigned locations; one SKU unit per assigned bin"
+    },
+    "exceptions": {
+      "total": 639,
+      "by_issue_type": {
+        "BLOCKED_AISLE_PICK": 544,
+        "CAPACITY_EXCEEDED": 25,
+        "DUPLICATE_ACTIVE_SLOT": 3,
+        "INCOMPATIBLE_COLOCATION": 3,
+        "REPLEN_LABOR_EXCEEDED": 64
+      },
+      "by_severity": {
+        "HIGH": 92,
+        "MEDIUM": 547
+      },
+      "by_resolution_status": {
+        "OPEN": 6,
+        "REJECTED": 25,
+        "REROUTED": 544,
+        "RESCHEDULED": 64
+      },
+      "labelled_compatibility_exception_cases": 3,
+      "accepted_compatibility_violations": 0,
+      "blocked_aisle_reroute_cases": 544,
+      "accepted_blocked_path_violations": 0
+    },
+    "inbound": {
+      "shipments": 20,
+      "shipment_events": 54,
+      "shipments_by_status": {
+        "BOOKED": 2,
+        "IN_TRANSIT": 2,
+        "RECEIVED": 16
+      },
+      "received_quantity": 4839
+    }
+  }
+}

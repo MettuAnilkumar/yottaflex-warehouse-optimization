@@ -1,0 +1,200 @@
+{
+  "seed": 20261022,
+  "scale": "starter",
+  "python": "3.13.2",
+  "generator_version": "1.0.0",
+  "run_timestamp_utc": "2026-10-31T18:16:21.114798+00:00",
+  "generation_parameters": {
+    "warehouses": 3,
+    "locations": 400,
+    "skus": 150,
+    "order_lines": 2000,
+    "suppliers": 6,
+    "carriers": 3,
+    "inbound_shipments": 20,
+    "inbound_events": 54
+  },
+  "data_provenance": "Synthetic data only; no external data sources used.",
+  "source_manifest": [],
+  "files": {
+    "assignment_event.csv": {
+      "bytes": 31352,
+      "sha256": "04f4f68a376c471dc9e930a9ce34c4717d5cc785e3b2c08ea8886d6412d8dc5c",
+      "rows": 202
+    },
+    "carrier.csv": {
+      "bytes": 186,
+      "sha256": "e558788682b286fe138cb3cedda26c0d941e199abad7d1d7424c6e572b0a7f5f",
+      "rows": 3
+    },
+    "ground_truth.csv": {
+      "bytes": 230544,
+      "sha256": "df5e5fa693099819967f7506a980e5b312f943546b5808c5654e59c453f0f77f",
+      "rows": 639
+    },
+    "inbound_event.csv": {
+      "bytes": 4165,
+      "sha256": "c5dc96eafff8e9a87920ea735138d67aa1d59de6146bb9eacd4afa2dcd039434",
+      "rows": 54
+    },
+    "inbound_shipment.csv": {
+      "bytes": 2023,
+      "sha256": "119f0b43f49c0637c6ce2259988f5aa3e3d9cb1e316b390743a8acd734e4e19e",
+      "rows": 20
+    },
+    "json/assignment_event.json": {
+      "bytes": 96239,
+      "sha256": "da55887967fd64c3d0080b5234b89752aedb1981f34d1b36c5a90c5154e29ea0",
+      "records": 202
+    },
+    "json/carrier.json": {
+      "bytes": 423,
+      "sha256": "6e90f9fa2b8393b38abe90edfcd62338c98b70e5b44e1e42565f377eed9459d4",
+      "records": 3
+    },
+    "json/ground_truth.json": {
+      "bytes": 363304,
+      "sha256": "71ac16d95ed496c3b9a6cd11960b74ccf5bf2fdb3108e9f73f52650cf2909ab5",
+      "records": 639
+    },
+    "json/inbound_event.json": {
+      "bytes": 11927,
+      "sha256": "3574b0575e1e2d6d328188ade838fe5d92db19c2921686a0d49168fc9a244b26",
+      "records": 54
+    },
+    "json/inbound_shipment.json": {
+      "bytes": 6453,
+      "sha256": "eb7f55abbfab3a0d18dcfab891cbe1ec15a101ff36be62211fee025484b439d5",
+      "records": 20
+    },
+    "json/location.json": {
+      "bytes": 176057,
+      "sha256": "a58ffd744329d67170439fac66fee9ebbaf01f9f9861dfcd41b13265c231ae0b",
+      "records": 400
+    },
+    "json/order.json": {
+      "bytes": 129048,
+      "sha256": "433fafa932db5054c71941f5214ef9ca8f2697118b6bb7f80ac41f8db49491e9",
+      "records": 500
+    },
+    "json/order_line.json": {
+      "bytes": 317779,
+      "sha256": "8c49b3cc2ff3bea8e8b2d7f0e91e8bc3e84c2650d1fff726abe1be50c56ba180",
+      "records": 2000
+    },
+    "json/pick_event.json": {
+      "bytes": 612397,
+      "sha256": "a6ae11b16ccd4e0f6a1565e03dc57eaefb16b7adfaaf35a56d961b11826d983a",
+      "records": 1882
+    },
+    "json/replenishment.json": {
+      "bytes": 105884,
+      "sha256": "1eab30e2ab9d3a9d77b5e431bb574934541d52571bc25fc5f0d8b6c33d105691",
+      "records": 145
+    },
+    "json/replenishment_event.json": {
+      "bytes": 97658,
+      "sha256": "c5d491272993b00c824d51463808bad915992c8b078376a017c0c3ca941f3ecd",
+      "records": 273
+    },
+    "json/sku.json": {
+      "bytes": 50579,
+      "sha256": "ad37aad849c1244288546e9505b4fb3ab83cced6e2af7de9dbae5b301bb4a558",
+      "records": 150
+    },
+    "json/sku_profile.json": {
+      "bytes": 46707,
+      "sha256": "c00d191fd765640dd5b5f0a3c32e8d5fd5bd8ab6de1318e80dfd77a2e32aacff",
+      "records": 150
+    },
+    "json/slot_assignment.json": {
+      "bytes": 54812,
+      "sha256": "acc7be6a89f98efbd57da634f88847c9369217605e47a17445125629b59164cf",
+      "records": 184
+    },
+    "json/supplier.json": {
+      "bytes": 833,
+      "sha256": "f85a2fa954b8f8488dacf1b4aab0436a0d7e97273491af8eae4e7b07aa32babd",
+      "records": 6
+    },
+    "json/warehouse.json": {
+      "bytes": 550,
+      "sha256": "9285b4edce90f3933ff3a888b0b5850f084c93bfe1b67251d0547ffcc1f74c37",
+      "records": 3
+    },
+    "json/zone.json": {
+      "bytes": 9234,
+      "sha256": "d05527c345cfaa3892f660d9a43e1b899023f0aa01e7ddea58c050a6d4472146",
+      "records": 42
+    },
+    "location.csv": {
+      "bytes": 40228,
+      "sha256": "af65c9e293ab842b4f22b4a057f553ebabcbb616e887f38ce984b050220af1bc",
+      "rows": 400
+    },
+    "metrics.json": {
+      "bytes": 5048,
+      "sha256": "4d0c23c074b5204e4ec7eb6233e865b7e9032a9dbd9c8e8ade80ff38bd4b4017",
+      "records": 2
+    },
+    "order.csv": {
+      "bytes": 39129,
+      "sha256": "1e6802c55a45a4fffe3ec55cae54c7937d1791b0f0780eaf2139cee5424396bd",
+      "rows": 500
+    },
+    "order_line.csv": {
+      "bytes": 107822,
+      "sha256": "dc9b68654adf46d4d38ef4002144842fbfe4e00697aa012f5df1d96a6cdb1e29",
+      "rows": 2000
+    },
+    "pick_event.csv": {
+      "bytes": 247375,
+      "sha256": "7d1a8b0b27942a3e0cf8e5ff735dd060f095720c7e227f9e71fca6a3e3f34e9b",
+      "rows": 1882
+    },
+    "replenishment.csv": {
+      "bytes": 22718,
+      "sha256": "d0c18c5fa46ad7ebd3994602c0cadf628091755328610d2e0970e0831a9c2c00",
+      "rows": 145
+    },
+    "replenishment_event.csv": {
+      "bytes": 27350,
+      "sha256": "c281b75a825b5e067cc88283812217c8573817e39ebcd55e1d0b8ba582bd436d",
+      "rows": 273
+    },
+    "seed.sql": {
+      "bytes": 1153514,
+      "sha256": "fc5efc47091a873d0da37d0c66465ec2ecba120b7987f5df0a228e4ada947ed5"
+    },
+    "sku.csv": {
+      "bytes": 12155,
+      "sha256": "5f96a64239c6a39e7c918e9da6722852697fb294717d0ce946992bca958d663c",
+      "rows": 150
+    },
+    "sku_profile.csv": {
+      "bytes": 9046,
+      "sha256": "6edbd9168c1f0b63f37d45c885f6625424e3aced96c991fd6644907aa3364f26",
+      "rows": 150
+    },
+    "slot_assignment.csv": {
+      "bytes": 18836,
+      "sha256": "a7a55f297ca22121fe20e18a7a4c9b534015b39ab98a27dbe0612ba5df541c91",
+      "rows": 184
+    },
+    "supplier.csv": {
+      "bytes": 353,
+      "sha256": "f7cf39832e898db4b9661840c9d8d2187a3906ff1ecdfc5a8587c469ed82f568",
+      "rows": 6
+    },
+    "warehouse.csv": {
+      "bytes": 223,
+      "sha256": "c1166a48dbf977968512f18015b21c18b61b04753d11f582d5a4d54700470949",
+      "rows": 3
+    },
+    "zone.csv": {
+      "bytes": 2055,
+      "sha256": "6a08a73453b76eaf63c2e39e45a959bfe6a4895ea7f03afe69322dc299da88c7",
+      "rows": 42
+    }
+  }
+}

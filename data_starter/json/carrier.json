@@ -1,0 +1,20 @@
+[
+  {
+    "carrier_id": "CAR-000001",
+    "name": "Synthetic Carrier 000001",
+    "transport_mode": "AIR",
+    "status": "ACTIVE"
+  },
+  {
+    "carrier_id": "CAR-000002",
+    "name": "Synthetic Carrier 000002",
+    "transport_mode": "RAIL",
+    "status": "ACTIVE"
+  },
+  {
+    "carrier_id": "CAR-000003",
+    "name": "Synthetic Carrier 000003",
+    "transport_mode": "OCEAN",
+    "status": "ACTIVE"
+  }
+]

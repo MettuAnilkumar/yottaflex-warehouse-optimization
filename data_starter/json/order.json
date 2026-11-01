@@ -1,0 +1,5002 @@
+[
+  {
+    "order_id": "ORD-2026-000001",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-31551",
+    "order_date": "2026-08-04",
+    "ship_date": "2026-08-09",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000002",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-75311",
+    "order_date": "2026-04-26",
+    "ship_date": "2026-04-30",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000003",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-39511",
+    "order_date": "2026-09-24",
+    "ship_date": "2026-09-27",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000004",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-10893",
+    "order_date": "2026-09-11",
+    "ship_date": "2026-09-13",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000005",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-61711",
+    "order_date": "2026-02-19",
+    "ship_date": "2026-02-24",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000006",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-04368",
+    "order_date": "2026-09-09",
+    "ship_date": "2026-09-13",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000007",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-40963",
+    "order_date": "2026-02-20",
+    "ship_date": "2026-02-22",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000008",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-76692",
+    "order_date": "2026-09-28",
+    "ship_date": "2026-09-30",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000009",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-38889",
+    "order_date": "2026-09-12",
+    "ship_date": "2026-09-16",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000010",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-74764",
+    "order_date": "2026-09-14",
+    "ship_date": "2026-09-15",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000011",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-51099",
+    "order_date": "2026-05-24",
+    "ship_date": "2026-05-27",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000012",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-79541",
+    "order_date": "2026-04-19",
+    "ship_date": "2026-04-24",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000013",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-50180",
+    "order_date": "2026-10-24",
+    "ship_date": "2026-10-28",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000014",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-21595",
+    "order_date": "2026-04-14",
+    "ship_date": "2026-04-15",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000015",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-95761",
+    "order_date": "2026-03-19",
+    "ship_date": "2026-03-20",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000016",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-22637",
+    "order_date": "2026-07-27",
+    "ship_date": "2026-07-28",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000017",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-76389",
+    "order_date": "2026-08-28",
+    "ship_date": "2026-08-30",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000018",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-19953",
+    "order_date": "2026-01-20",
+    "ship_date": "2026-01-22",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000019",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-06341",
+    "order_date": "2026-10-23",
+    "ship_date": "2026-10-25",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000020",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-58829",
+    "order_date": "2026-08-14",
+    "ship_date": "2026-08-15",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000021",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-11071",
+    "order_date": "2026-02-17",
+    "ship_date": "2026-02-20",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000022",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-54338",
+    "order_date": "2026-05-07",
+    "ship_date": "2026-05-08",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000023",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-83397",
+    "order_date": "2026-09-18",
+    "ship_date": "2026-09-20",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000024",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-48876",
+    "order_date": "2026-09-21",
+    "ship_date": "2026-09-24",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000025",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-90434",
+    "order_date": "2026-09-18",
+    "ship_date": "2026-09-22",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000026",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-89988",
+    "order_date": "2026-04-22",
+    "ship_date": "2026-04-25",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000027",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-94860",
+    "order_date": "2026-04-02",
+    "ship_date": "2026-04-03",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000028",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-26062",
+    "order_date": "2026-05-29",
+    "ship_date": "2026-06-02",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000029",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-51096",
+    "order_date": "2026-02-12",
+    "ship_date": "2026-02-16",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000030",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-07388",
+    "order_date": "2026-03-05",
+    "ship_date": "2026-03-08",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000031",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-20264",
+    "order_date": "2026-07-20",
+    "ship_date": "2026-07-23",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000032",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-05897",
+    "order_date": "2026-04-19",
+    "ship_date": "2026-04-20",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000033",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-01438",
+    "order_date": "2026-09-14",
+    "ship_date": "2026-09-16",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000034",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-91198",
+    "order_date": "2026-10-23",
+    "ship_date": "2026-10-24",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000035",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-05211",
+    "order_date": "2026-10-02",
+    "ship_date": "2026-10-06",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000036",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-40358",
+    "order_date": "2026-10-19",
+    "ship_date": "2026-10-21",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000037",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-08811",
+    "order_date": "2026-05-16",
+    "ship_date": "2026-05-21",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000038",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-69097",
+    "order_date": "2026-05-22",
+    "ship_date": "2026-05-25",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000039",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-35098",
+    "order_date": "2026-09-26",
+    "ship_date": "2026-09-30",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000040",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-03428",
+    "order_date": "2026-03-28",
+    "ship_date": "2026-03-29",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000041",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-90774",
+    "order_date": "2026-09-26",
+    "ship_date": "2026-10-01",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000042",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-26963",
+    "order_date": "2026-09-21",
+    "ship_date": "2026-09-24",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000043",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-13914",
+    "order_date": "2026-09-08",
+    "ship_date": "2026-09-09",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000044",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-65653",
+    "order_date": "2026-10-22",
+    "ship_date": "2026-10-23",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000045",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-79317",
+    "order_date": "2026-04-20",
+    "ship_date": "2026-04-21",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000046",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-98728",
+    "order_date": "2026-02-13",
+    "ship_date": "2026-02-17",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000047",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-10859",
+    "order_date": "2026-05-08",
+    "ship_date": "2026-05-10",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000048",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-10829",
+    "order_date": "2026-10-28",
+    "ship_date": "2026-10-31",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000049",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-85775",
+    "order_date": "2026-04-02",
+    "ship_date": "2026-04-03",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000050",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-37767",
+    "order_date": "2026-06-19",
+    "ship_date": "2026-06-20",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000051",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-90179",
+    "order_date": "2026-10-22",
+    "ship_date": "2026-10-26",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000052",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-27141",
+    "order_date": "2026-06-20",
+    "ship_date": "2026-06-25",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000053",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-06374",
+    "order_date": "2026-09-15",
+    "ship_date": "2026-09-17",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000054",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-63992",
+    "order_date": "2026-10-09",
+    "ship_date": "2026-10-11",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000055",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-84283",
+    "order_date": "2026-08-30",
+    "ship_date": "2026-09-01",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000056",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-19823",
+    "order_date": "2026-10-10",
+    "ship_date": "2026-10-15",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000057",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-20023",
+    "order_date": "2026-04-03",
+    "ship_date": "2026-04-04",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000058",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-33570",
+    "order_date": "2026-10-28",
+    "ship_date": "2026-10-30",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000059",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-87766",
+    "order_date": "2026-01-23",
+    "ship_date": "2026-01-24",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000060",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-17521",
+    "order_date": "2026-10-18",
+    "ship_date": "2026-10-22",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000061",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-11821",
+    "order_date": "2026-09-20",
+    "ship_date": "2026-09-21",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000062",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-99237",
+    "order_date": "2026-09-29",
+    "ship_date": "2026-10-02",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000063",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-84872",
+    "order_date": "2026-03-04",
+    "ship_date": "2026-03-05",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000064",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-43976",
+    "order_date": "2026-10-17",
+    "ship_date": "2026-10-19",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000065",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-23638",
+    "order_date": "2026-05-07",
+    "ship_date": "2026-05-09",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000066",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-31800",
+    "order_date": "2026-03-14",
+    "ship_date": "2026-03-16",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000067",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-04290",
+    "order_date": "2026-07-20",
+    "ship_date": "2026-07-24",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000068",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-17869",
+    "order_date": "2026-07-30",
+    "ship_date": "2026-08-02",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000069",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-82981",
+    "order_date": "2026-05-16",
+    "ship_date": "2026-05-17",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000070",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-31889",
+    "order_date": "2026-10-19",
+    "ship_date": "2026-10-24",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000071",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-01499",
+    "order_date": "2026-10-06",
+    "ship_date": "2026-10-07",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000072",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-38263",
+    "order_date": "2026-02-22",
+    "ship_date": "2026-02-24",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000073",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-65160",
+    "order_date": "2026-01-14",
+    "ship_date": "2026-01-15",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000074",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-89158",
+    "order_date": "2026-07-10",
+    "ship_date": "2026-07-12",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000075",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-48947",
+    "order_date": "2026-09-16",
+    "ship_date": "2026-09-18",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000076",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-70303",
+    "order_date": "2026-10-15",
+    "ship_date": "2026-10-17",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000077",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-80518",
+    "order_date": "2026-07-21",
+    "ship_date": "2026-07-25",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000078",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-88714",
+    "order_date": "2026-10-28",
+    "ship_date": "2026-10-29",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000079",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-88434",
+    "order_date": "2026-03-19",
+    "ship_date": "2026-03-24",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000080",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-53566",
+    "order_date": "2026-09-21",
+    "ship_date": "2026-09-22",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000081",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-49162",
+    "order_date": "2026-05-26",
+    "ship_date": "2026-05-30",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000082",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-29540",
+    "order_date": "2026-09-12",
+    "ship_date": "2026-09-14",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000083",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-94124",
+    "order_date": "2026-06-30",
+    "ship_date": "2026-07-01",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000084",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-32184",
+    "order_date": "2026-10-25",
+    "ship_date": "2026-10-27",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000085",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-13164",
+    "order_date": "2026-03-13",
+    "ship_date": "2026-03-17",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000086",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-61595",
+    "order_date": "2026-06-23",
+    "ship_date": "2026-06-25",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000087",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-36828",
+    "order_date": "2026-08-18",
+    "ship_date": "2026-08-19",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000088",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-94408",
+    "order_date": "2026-01-06",
+    "ship_date": "2026-01-09",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000089",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-31644",
+    "order_date": "2026-06-01",
+    "ship_date": "2026-06-06",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000090",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-54098",
+    "order_date": "2026-03-08",
+    "ship_date": "2026-03-13",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000091",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-94033",
+    "order_date": "2026-10-19",
+    "ship_date": "2026-10-24",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000092",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-91634",
+    "order_date": "2026-10-01",
+    "ship_date": "2026-10-03",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000093",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-55773",
+    "order_date": "2026-08-04",
+    "ship_date": "2026-08-06",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000094",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-40546",
+    "order_date": "2026-04-29",
+    "ship_date": "2026-05-01",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000095",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-32749",
+    "order_date": "2026-06-17",
+    "ship_date": "2026-06-18",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000096",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-33561",
+    "order_date": "2026-02-23",
+    "ship_date": "2026-02-28",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000097",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-61586",
+    "order_date": "2026-09-19",
+    "ship_date": "2026-09-24",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000098",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-99893",
+    "order_date": "2026-05-30",
+    "ship_date": "2026-06-02",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000099",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-86745",
+    "order_date": "2026-08-02",
+    "ship_date": "2026-08-06",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000100",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-38306",
+    "order_date": "2026-04-15",
+    "ship_date": "2026-04-19",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000101",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-43046",
+    "order_date": "2026-07-20",
+    "ship_date": "2026-07-23",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000102",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-60338",
+    "order_date": "2026-06-25",
+    "ship_date": "2026-06-30",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000103",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-81460",
+    "order_date": "2026-09-05",
+    "ship_date": "2026-09-07",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000104",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-62137",
+    "order_date": "2026-02-27",
+    "ship_date": "2026-03-03",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000105",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-54270",
+    "order_date": "2026-01-31",
+    "ship_date": "2026-02-05",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000106",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-21708",
+    "order_date": "2026-06-05",
+    "ship_date": "2026-06-08",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000107",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-04998",
+    "order_date": "2026-10-06",
+    "ship_date": "2026-10-10",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000108",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-11413",
+    "order_date": "2026-01-26",
+    "ship_date": "2026-01-28",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000109",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-89603",
+    "order_date": "2026-08-16",
+    "ship_date": "2026-08-20",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000110",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-05690",
+    "order_date": "2026-09-23",
+    "ship_date": "2026-09-27",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000111",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-58355",
+    "order_date": "2026-03-17",
+    "ship_date": "2026-03-22",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000112",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-65829",
+    "order_date": "2026-02-05",
+    "ship_date": "2026-02-07",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000113",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-77784",
+    "order_date": "2026-09-15",
+    "ship_date": "2026-09-18",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000114",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-16892",
+    "order_date": "2026-02-23",
+    "ship_date": "2026-02-28",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000115",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-21187",
+    "order_date": "2026-06-07",
+    "ship_date": "2026-06-09",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000116",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-56893",
+    "order_date": "2026-03-01",
+    "ship_date": "2026-03-02",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000117",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-57221",
+    "order_date": "2026-10-09",
+    "ship_date": "2026-10-13",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000118",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-25935",
+    "order_date": "2026-10-06",
+    "ship_date": "2026-10-08",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000119",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-27131",
+    "order_date": "2026-09-18",
+    "ship_date": "2026-09-20",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000120",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-75030",
+    "order_date": "2026-01-27",
+    "ship_date": "2026-01-31",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000121",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-56991",
+    "order_date": "2026-09-13",
+    "ship_date": "2026-09-17",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000122",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-97558",
+    "order_date": "2026-05-13",
+    "ship_date": "2026-05-18",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000123",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-83526",
+    "order_date": "2026-10-09",
+    "ship_date": "2026-10-13",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000124",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-81186",
+    "order_date": "2026-10-06",
+    "ship_date": "2026-10-10",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000125",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-77481",
+    "order_date": "2026-08-16",
+    "ship_date": "2026-08-17",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000126",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-05665",
+    "order_date": "2026-08-07",
+    "ship_date": "2026-08-08",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000127",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-51938",
+    "order_date": "2026-10-22",
+    "ship_date": "2026-10-26",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000128",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-62944",
+    "order_date": "2026-10-06",
+    "ship_date": "2026-10-08",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000129",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-43651",
+    "order_date": "2026-04-13",
+    "ship_date": "2026-04-17",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000130",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-60011",
+    "order_date": "2026-09-15",
+    "ship_date": "2026-09-20",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000131",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-46446",
+    "order_date": "2026-09-24",
+    "ship_date": "2026-09-29",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000132",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-50001",
+    "order_date": "2026-05-14",
+    "ship_date": "2026-05-17",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000133",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-03335",
+    "order_date": "2026-01-17",
+    "ship_date": "2026-01-20",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000134",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-42020",
+    "order_date": "2026-06-13",
+    "ship_date": "2026-06-17",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000135",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-46918",
+    "order_date": "2026-05-21",
+    "ship_date": "2026-05-25",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000136",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-47582",
+    "order_date": "2026-09-20",
+    "ship_date": "2026-09-25",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000137",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-87010",
+    "order_date": "2026-05-23",
+    "ship_date": "2026-05-26",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000138",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-77716",
+    "order_date": "2026-03-22",
+    "ship_date": "2026-03-23",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000139",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-34648",
+    "order_date": "2026-02-06",
+    "ship_date": "2026-02-10",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000140",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-50330",
+    "order_date": "2026-05-14",
+    "ship_date": "2026-05-17",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000141",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-80165",
+    "order_date": "2026-10-14",
+    "ship_date": "2026-10-15",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000142",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-60825",
+    "order_date": "2026-06-23",
+    "ship_date": "2026-06-25",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000143",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-06507",
+    "order_date": "2026-08-30",
+    "ship_date": "2026-08-31",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000144",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-18337",
+    "order_date": "2026-10-28",
+    "ship_date": "2026-11-02",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000145",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-58223",
+    "order_date": "2026-10-20",
+    "ship_date": "2026-10-23",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000146",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-44868",
+    "order_date": "2026-09-28",
+    "ship_date": "2026-10-03",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000147",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-05821",
+    "order_date": "2026-09-14",
+    "ship_date": "2026-09-19",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000148",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-93139",
+    "order_date": "2026-09-15",
+    "ship_date": "2026-09-19",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000149",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-02494",
+    "order_date": "2026-03-18",
+    "ship_date": "2026-03-20",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000150",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-37628",
+    "order_date": "2026-07-26",
+    "ship_date": "2026-07-29",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000151",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-40858",
+    "order_date": "2026-04-22",
+    "ship_date": "2026-04-27",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000152",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-28196",
+    "order_date": "2026-09-26",
+    "ship_date": "2026-09-27",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000153",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-43400",
+    "order_date": "2026-05-01",
+    "ship_date": "2026-05-02",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000154",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-29091",
+    "order_date": "2026-06-24",
+    "ship_date": "2026-06-28",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000155",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-98667",
+    "order_date": "2026-04-29",
+    "ship_date": "2026-04-30",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000156",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-61626",
+    "order_date": "2026-10-17",
+    "ship_date": "2026-10-18",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000157",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-18992",
+    "order_date": "2026-09-06",
+    "ship_date": "2026-09-08",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000158",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-62323",
+    "order_date": "2026-10-02",
+    "ship_date": "2026-10-05",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000159",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-89064",
+    "order_date": "2026-09-27",
+    "ship_date": "2026-09-30",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000160",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-94679",
+    "order_date": "2026-02-25",
+    "ship_date": "2026-03-01",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000161",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-29293",
+    "order_date": "2026-10-17",
+    "ship_date": "2026-10-19",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000162",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-13378",
+    "order_date": "2026-06-16",
+    "ship_date": "2026-06-21",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000163",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-81966",
+    "order_date": "2026-01-28",
+    "ship_date": "2026-02-02",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000164",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-57923",
+    "order_date": "2026-09-28",
+    "ship_date": "2026-09-29",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000165",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-27656",
+    "order_date": "2026-09-12",
+    "ship_date": "2026-09-15",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000166",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-05140",
+    "order_date": "2026-09-29",
+    "ship_date": "2026-10-01",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000167",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-87898",
+    "order_date": "2026-09-29",
+    "ship_date": "2026-10-02",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000168",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-69026",
+    "order_date": "2026-04-19",
+    "ship_date": "2026-04-23",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000169",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-26952",
+    "order_date": "2026-08-17",
+    "ship_date": "2026-08-20",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000170",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-56126",
+    "order_date": "2026-07-06",
+    "ship_date": "2026-07-11",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000171",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-57270",
+    "order_date": "2026-02-16",
+    "ship_date": "2026-02-19",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000172",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-53610",
+    "order_date": "2026-03-19",
+    "ship_date": "2026-03-23",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000173",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-81517",
+    "order_date": "2026-04-08",
+    "ship_date": "2026-04-10",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000174",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-44357",
+    "order_date": "2026-02-09",
+    "ship_date": "2026-02-12",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000175",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-70363",
+    "order_date": "2026-03-31",
+    "ship_date": "2026-04-01",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000176",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-77694",
+    "order_date": "2026-07-03",
+    "ship_date": "2026-07-06",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000177",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-15834",
+    "order_date": "2026-10-03",
+    "ship_date": "2026-10-05",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000178",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-05102",
+    "order_date": "2026-05-07",
+    "ship_date": "2026-05-12",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000179",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-26732",
+    "order_date": "2026-03-15",
+    "ship_date": "2026-03-19",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000180",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-30789",
+    "order_date": "2026-08-07",
+    "ship_date": "2026-08-08",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000181",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-84971",
+    "order_date": "2026-02-15",
+    "ship_date": "2026-02-18",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000182",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-75308",
+    "order_date": "2026-08-07",
+    "ship_date": "2026-08-09",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000183",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-02059",
+    "order_date": "2026-07-26",
+    "ship_date": "2026-07-30",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000184",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-43912",
+    "order_date": "2026-09-12",
+    "ship_date": "2026-09-15",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000185",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-41763",
+    "order_date": "2026-10-23",
+    "ship_date": "2026-10-25",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000186",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-11986",
+    "order_date": "2026-10-15",
+    "ship_date": "2026-10-20",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000187",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-38407",
+    "order_date": "2026-06-23",
+    "ship_date": "2026-06-24",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000188",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-92876",
+    "order_date": "2026-07-11",
+    "ship_date": "2026-07-13",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000189",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-85469",
+    "order_date": "2026-03-29",
+    "ship_date": "2026-04-03",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000190",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-02302",
+    "order_date": "2026-06-05",
+    "ship_date": "2026-06-06",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000191",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-02061",
+    "order_date": "2026-04-08",
+    "ship_date": "2026-04-11",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000192",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-61838",
+    "order_date": "2026-03-15",
+    "ship_date": "2026-03-18",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000193",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-04481",
+    "order_date": "2026-03-12",
+    "ship_date": "2026-03-17",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000194",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-92782",
+    "order_date": "2026-01-06",
+    "ship_date": "2026-01-11",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000195",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-38315",
+    "order_date": "2026-04-16",
+    "ship_date": "2026-04-17",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000196",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-82458",
+    "order_date": "2026-10-27",
+    "ship_date": "2026-10-29",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000197",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-43408",
+    "order_date": "2026-10-22",
+    "ship_date": "2026-10-23",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000198",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-40341",
+    "order_date": "2026-05-25",
+    "ship_date": "2026-05-28",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000199",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-89062",
+    "order_date": "2026-01-16",
+    "ship_date": "2026-01-20",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000200",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-12054",
+    "order_date": "2026-04-15",
+    "ship_date": "2026-04-17",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000201",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-13275",
+    "order_date": "2026-10-10",
+    "ship_date": "2026-10-12",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000202",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-49447",
+    "order_date": "2026-07-12",
+    "ship_date": "2026-07-14",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000203",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-56540",
+    "order_date": "2026-07-16",
+    "ship_date": "2026-07-19",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000204",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-94131",
+    "order_date": "2026-02-01",
+    "ship_date": "2026-02-02",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000205",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-22037",
+    "order_date": "2026-10-23",
+    "ship_date": "2026-10-27",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000206",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-01236",
+    "order_date": "2026-03-15",
+    "ship_date": "2026-03-16",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000207",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-46656",
+    "order_date": "2026-08-17",
+    "ship_date": "2026-08-20",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000208",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-53734",
+    "order_date": "2026-07-04",
+    "ship_date": "2026-07-07",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000209",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-84438",
+    "order_date": "2026-04-24",
+    "ship_date": "2026-04-25",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000210",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-86817",
+    "order_date": "2026-07-16",
+    "ship_date": "2026-07-17",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000211",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-00191",
+    "order_date": "2026-09-18",
+    "ship_date": "2026-09-20",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000212",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-51648",
+    "order_date": "2026-05-14",
+    "ship_date": "2026-05-17",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000213",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-20505",
+    "order_date": "2026-03-12",
+    "ship_date": "2026-03-13",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000214",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-45762",
+    "order_date": "2026-01-09",
+    "ship_date": "2026-01-13",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000215",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-75471",
+    "order_date": "2026-07-19",
+    "ship_date": "2026-07-24",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000216",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-50478",
+    "order_date": "2026-04-12",
+    "ship_date": "2026-04-13",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000217",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-42884",
+    "order_date": "2026-02-27",
+    "ship_date": "2026-03-03",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000218",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-99359",
+    "order_date": "2026-09-10",
+    "ship_date": "2026-09-13",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000219",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-38493",
+    "order_date": "2026-09-19",
+    "ship_date": "2026-09-23",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000220",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-54652",
+    "order_date": "2026-09-21",
+    "ship_date": "2026-09-24",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000221",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-52050",
+    "order_date": "2026-08-23",
+    "ship_date": "2026-08-24",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000222",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-40520",
+    "order_date": "2026-10-22",
+    "ship_date": "2026-10-26",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000223",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-34987",
+    "order_date": "2026-02-11",
+    "ship_date": "2026-02-13",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000224",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-96208",
+    "order_date": "2026-09-14",
+    "ship_date": "2026-09-18",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000225",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-67616",
+    "order_date": "2026-09-24",
+    "ship_date": "2026-09-25",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000226",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-81880",
+    "order_date": "2026-03-25",
+    "ship_date": "2026-03-29",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000227",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-99506",
+    "order_date": "2026-05-22",
+    "ship_date": "2026-05-27",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000228",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-56650",
+    "order_date": "2026-08-24",
+    "ship_date": "2026-08-28",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000229",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-85570",
+    "order_date": "2026-07-23",
+    "ship_date": "2026-07-28",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000230",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-41586",
+    "order_date": "2026-06-20",
+    "ship_date": "2026-06-25",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000231",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-94271",
+    "order_date": "2026-09-24",
+    "ship_date": "2026-09-28",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000232",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-26622",
+    "order_date": "2026-08-17",
+    "ship_date": "2026-08-18",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000233",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-08998",
+    "order_date": "2026-09-26",
+    "ship_date": "2026-09-27",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000234",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-38420",
+    "order_date": "2026-07-28",
+    "ship_date": "2026-07-30",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000235",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-82226",
+    "order_date": "2026-05-29",
+    "ship_date": "2026-06-03",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000236",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-23967",
+    "order_date": "2026-07-27",
+    "ship_date": "2026-07-31",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000237",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-41458",
+    "order_date": "2026-09-22",
+    "ship_date": "2026-09-24",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000238",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-33425",
+    "order_date": "2026-08-13",
+    "ship_date": "2026-08-15",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000239",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-33050",
+    "order_date": "2026-09-19",
+    "ship_date": "2026-09-20",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000240",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-50839",
+    "order_date": "2026-10-23",
+    "ship_date": "2026-10-25",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000241",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-47617",
+    "order_date": "2026-04-12",
+    "ship_date": "2026-04-16",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000242",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-94417",
+    "order_date": "2026-09-08",
+    "ship_date": "2026-09-12",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000243",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-54065",
+    "order_date": "2026-10-18",
+    "ship_date": "2026-10-21",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000244",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-19662",
+    "order_date": "2026-05-14",
+    "ship_date": "2026-05-15",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000245",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-74493",
+    "order_date": "2026-06-01",
+    "ship_date": "2026-06-02",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000246",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-39072",
+    "order_date": "2026-05-28",
+    "ship_date": "2026-06-01",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000247",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-60736",
+    "order_date": "2026-09-12",
+    "ship_date": "2026-09-14",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000248",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-48643",
+    "order_date": "2026-10-27",
+    "ship_date": "2026-11-01",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000249",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-42603",
+    "order_date": "2026-07-13",
+    "ship_date": "2026-07-18",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000250",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-51732",
+    "order_date": "2026-10-16",
+    "ship_date": "2026-10-17",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000251",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-99672",
+    "order_date": "2026-10-09",
+    "ship_date": "2026-10-12",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000252",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-91214",
+    "order_date": "2026-10-27",
+    "ship_date": "2026-10-31",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000253",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-65230",
+    "order_date": "2026-10-15",
+    "ship_date": "2026-10-16",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000254",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-45857",
+    "order_date": "2026-05-10",
+    "ship_date": "2026-05-14",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000255",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-07895",
+    "order_date": "2026-09-17",
+    "ship_date": "2026-09-20",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000256",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-90948",
+    "order_date": "2026-10-14",
+    "ship_date": "2026-10-18",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000257",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-05320",
+    "order_date": "2026-05-28",
+    "ship_date": "2026-05-31",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000258",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-61298",
+    "order_date": "2026-10-23",
+    "ship_date": "2026-10-26",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000259",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-62015",
+    "order_date": "2026-04-25",
+    "ship_date": "2026-04-27",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000260",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-87833",
+    "order_date": "2026-08-16",
+    "ship_date": "2026-08-21",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000261",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-17639",
+    "order_date": "2026-09-24",
+    "ship_date": "2026-09-25",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000262",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-72433",
+    "order_date": "2026-03-12",
+    "ship_date": "2026-03-15",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000263",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-69389",
+    "order_date": "2026-08-05",
+    "ship_date": "2026-08-10",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000264",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-06115",
+    "order_date": "2026-09-22",
+    "ship_date": "2026-09-27",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000265",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-56769",
+    "order_date": "2026-02-09",
+    "ship_date": "2026-02-14",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000266",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-26472",
+    "order_date": "2026-07-31",
+    "ship_date": "2026-08-03",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000267",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-66967",
+    "order_date": "2026-05-25",
+    "ship_date": "2026-05-30",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000268",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-42771",
+    "order_date": "2026-06-06",
+    "ship_date": "2026-06-10",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000269",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-91828",
+    "order_date": "2026-03-06",
+    "ship_date": "2026-03-07",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000270",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-06050",
+    "order_date": "2026-10-13",
+    "ship_date": "2026-10-16",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000271",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-86378",
+    "order_date": "2026-10-24",
+    "ship_date": "2026-10-28",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000272",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-87119",
+    "order_date": "2026-08-28",
+    "ship_date": "2026-08-31",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000273",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-68480",
+    "order_date": "2026-09-26",
+    "ship_date": "2026-10-01",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000274",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-51094",
+    "order_date": "2026-10-17",
+    "ship_date": "2026-10-21",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000275",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-65802",
+    "order_date": "2026-06-23",
+    "ship_date": "2026-06-28",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000276",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-27047",
+    "order_date": "2026-10-26",
+    "ship_date": "2026-10-29",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000277",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-59375",
+    "order_date": "2026-10-18",
+    "ship_date": "2026-10-21",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000278",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-95262",
+    "order_date": "2026-02-14",
+    "ship_date": "2026-02-17",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000279",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-32102",
+    "order_date": "2026-04-09",
+    "ship_date": "2026-04-11",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000280",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-86322",
+    "order_date": "2026-09-17",
+    "ship_date": "2026-09-20",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000281",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-61028",
+    "order_date": "2026-05-19",
+    "ship_date": "2026-05-23",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000282",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-47319",
+    "order_date": "2026-08-05",
+    "ship_date": "2026-08-09",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000283",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-45289",
+    "order_date": "2026-01-16",
+    "ship_date": "2026-01-19",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000284",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-29521",
+    "order_date": "2026-09-09",
+    "ship_date": "2026-09-13",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000285",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-16119",
+    "order_date": "2026-07-24",
+    "ship_date": "2026-07-27",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000286",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-37436",
+    "order_date": "2026-01-30",
+    "ship_date": "2026-01-31",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000287",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-01690",
+    "order_date": "2026-05-24",
+    "ship_date": "2026-05-28",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000288",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-62063",
+    "order_date": "2026-06-05",
+    "ship_date": "2026-06-10",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000289",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-86372",
+    "order_date": "2026-02-21",
+    "ship_date": "2026-02-22",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000290",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-48631",
+    "order_date": "2026-04-02",
+    "ship_date": "2026-04-03",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000291",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-57903",
+    "order_date": "2026-06-19",
+    "ship_date": "2026-06-22",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000292",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-95063",
+    "order_date": "2026-10-02",
+    "ship_date": "2026-10-05",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000293",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-88962",
+    "order_date": "2026-10-04",
+    "ship_date": "2026-10-09",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000294",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-21283",
+    "order_date": "2026-07-29",
+    "ship_date": "2026-08-03",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000295",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-43071",
+    "order_date": "2026-06-16",
+    "ship_date": "2026-06-17",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000296",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-95177",
+    "order_date": "2026-01-06",
+    "ship_date": "2026-01-08",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000297",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-58797",
+    "order_date": "2026-10-21",
+    "ship_date": "2026-10-22",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000298",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-62281",
+    "order_date": "2026-09-17",
+    "ship_date": "2026-09-18",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000299",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-41320",
+    "order_date": "2026-09-10",
+    "ship_date": "2026-09-11",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000300",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-11163",
+    "order_date": "2026-07-09",
+    "ship_date": "2026-07-12",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000301",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-01150",
+    "order_date": "2026-08-02",
+    "ship_date": "2026-08-04",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000302",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-07192",
+    "order_date": "2026-10-28",
+    "ship_date": "2026-11-02",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000303",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-58688",
+    "order_date": "2026-08-06",
+    "ship_date": "2026-08-10",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000304",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-99599",
+    "order_date": "2026-05-23",
+    "ship_date": "2026-05-28",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000305",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-25327",
+    "order_date": "2026-03-31",
+    "ship_date": "2026-04-01",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000306",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-04471",
+    "order_date": "2026-03-27",
+    "ship_date": "2026-03-28",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000307",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-77666",
+    "order_date": "2026-09-16",
+    "ship_date": "2026-09-18",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000308",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-15388",
+    "order_date": "2026-09-28",
+    "ship_date": "2026-10-03",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000309",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-09593",
+    "order_date": "2026-05-14",
+    "ship_date": "2026-05-16",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000310",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-96725",
+    "order_date": "2026-05-31",
+    "ship_date": "2026-06-04",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000311",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-13197",
+    "order_date": "2026-01-05",
+    "ship_date": "2026-01-09",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000312",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-85721",
+    "order_date": "2026-08-24",
+    "ship_date": "2026-08-27",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000313",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-70194",
+    "order_date": "2026-10-04",
+    "ship_date": "2026-10-05",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000314",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-77274",
+    "order_date": "2026-06-25",
+    "ship_date": "2026-06-27",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000315",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-85333",
+    "order_date": "2026-08-25",
+    "ship_date": "2026-08-30",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000316",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-98041",
+    "order_date": "2026-06-05",
+    "ship_date": "2026-06-06",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000317",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-43774",
+    "order_date": "2026-02-14",
+    "ship_date": "2026-02-19",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000318",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-26859",
+    "order_date": "2026-07-03",
+    "ship_date": "2026-07-04",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000319",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-29757",
+    "order_date": "2026-03-21",
+    "ship_date": "2026-03-26",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000320",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-37206",
+    "order_date": "2026-06-08",
+    "ship_date": "2026-06-10",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000321",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-36055",
+    "order_date": "2026-07-13",
+    "ship_date": "2026-07-14",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000322",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-55079",
+    "order_date": "2026-10-12",
+    "ship_date": "2026-10-17",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000323",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-49916",
+    "order_date": "2026-09-15",
+    "ship_date": "2026-09-17",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000324",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-19142",
+    "order_date": "2026-01-23",
+    "ship_date": "2026-01-25",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000325",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-95133",
+    "order_date": "2026-08-28",
+    "ship_date": "2026-09-02",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000326",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-90370",
+    "order_date": "2026-08-03",
+    "ship_date": "2026-08-07",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000327",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-76442",
+    "order_date": "2026-10-11",
+    "ship_date": "2026-10-12",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000328",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-69055",
+    "order_date": "2026-04-16",
+    "ship_date": "2026-04-18",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000329",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-98643",
+    "order_date": "2026-02-06",
+    "ship_date": "2026-02-07",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000330",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-48957",
+    "order_date": "2026-10-14",
+    "ship_date": "2026-10-18",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000331",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-30357",
+    "order_date": "2026-08-10",
+    "ship_date": "2026-08-14",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000332",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-32186",
+    "order_date": "2026-05-02",
+    "ship_date": "2026-05-06",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000333",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-33393",
+    "order_date": "2026-09-11",
+    "ship_date": "2026-09-15",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000334",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-00957",
+    "order_date": "2026-09-17",
+    "ship_date": "2026-09-20",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000335",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-88571",
+    "order_date": "2026-10-03",
+    "ship_date": "2026-10-05",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000336",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-18636",
+    "order_date": "2026-05-23",
+    "ship_date": "2026-05-27",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000337",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-91289",
+    "order_date": "2026-05-09",
+    "ship_date": "2026-05-13",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000338",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-79456",
+    "order_date": "2026-03-26",
+    "ship_date": "2026-03-27",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000339",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-46443",
+    "order_date": "2026-04-26",
+    "ship_date": "2026-04-28",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000340",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-16570",
+    "order_date": "2026-07-10",
+    "ship_date": "2026-07-13",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000341",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-56145",
+    "order_date": "2026-07-31",
+    "ship_date": "2026-08-04",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000342",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-59836",
+    "order_date": "2026-05-21",
+    "ship_date": "2026-05-25",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000343",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-55228",
+    "order_date": "2026-04-10",
+    "ship_date": "2026-04-13",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000344",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-18185",
+    "order_date": "2026-07-06",
+    "ship_date": "2026-07-09",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000345",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-41516",
+    "order_date": "2026-10-10",
+    "ship_date": "2026-10-12",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000346",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-62262",
+    "order_date": "2026-05-21",
+    "ship_date": "2026-05-25",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000347",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-26202",
+    "order_date": "2026-02-12",
+    "ship_date": "2026-02-14",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000348",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-31449",
+    "order_date": "2026-07-31",
+    "ship_date": "2026-08-01",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000349",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-00985",
+    "order_date": "2026-09-12",
+    "ship_date": "2026-09-13",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000350",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-25652",
+    "order_date": "2026-10-17",
+    "ship_date": "2026-10-20",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000351",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-94945",
+    "order_date": "2026-09-19",
+    "ship_date": "2026-09-20",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000352",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-07234",
+    "order_date": "2026-06-01",
+    "ship_date": "2026-06-03",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000353",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-90544",
+    "order_date": "2026-02-16",
+    "ship_date": "2026-02-21",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000354",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-99999",
+    "order_date": "2026-01-12",
+    "ship_date": "2026-01-16",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000355",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-37671",
+    "order_date": "2026-02-12",
+    "ship_date": "2026-02-15",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000356",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-62281",
+    "order_date": "2026-06-27",
+    "ship_date": "2026-06-29",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000357",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-49320",
+    "order_date": "2026-09-17",
+    "ship_date": "2026-09-18",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000358",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-85397",
+    "order_date": "2026-03-09",
+    "ship_date": "2026-03-14",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000359",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-39272",
+    "order_date": "2026-08-27",
+    "ship_date": "2026-08-28",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000360",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-78218",
+    "order_date": "2026-10-09",
+    "ship_date": "2026-10-10",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000361",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-83831",
+    "order_date": "2026-10-21",
+    "ship_date": "2026-10-24",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000362",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-56020",
+    "order_date": "2026-10-09",
+    "ship_date": "2026-10-10",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000363",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-60173",
+    "order_date": "2026-10-05",
+    "ship_date": "2026-10-07",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000364",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-89072",
+    "order_date": "2026-08-26",
+    "ship_date": "2026-08-31",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000365",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-24741",
+    "order_date": "2026-10-02",
+    "ship_date": "2026-10-06",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000366",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-25032",
+    "order_date": "2026-07-12",
+    "ship_date": "2026-07-14",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000367",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-75422",
+    "order_date": "2026-04-16",
+    "ship_date": "2026-04-17",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000368",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-12190",
+    "order_date": "2026-05-11",
+    "ship_date": "2026-05-15",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000369",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-23858",
+    "order_date": "2026-01-10",
+    "ship_date": "2026-01-14",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000370",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-01282",
+    "order_date": "2026-10-09",
+    "ship_date": "2026-10-13",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000371",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-22019",
+    "order_date": "2026-09-23",
+    "ship_date": "2026-09-27",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000372",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-29703",
+    "order_date": "2026-10-02",
+    "ship_date": "2026-10-06",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000373",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-85752",
+    "order_date": "2026-08-10",
+    "ship_date": "2026-08-12",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000374",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-25102",
+    "order_date": "2026-08-12",
+    "ship_date": "2026-08-15",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000375",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-68331",
+    "order_date": "2026-06-08",
+    "ship_date": "2026-06-09",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000376",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-14307",
+    "order_date": "2026-09-26",
+    "ship_date": "2026-10-01",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000377",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-43749",
+    "order_date": "2026-09-02",
+    "ship_date": "2026-09-06",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000378",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-45975",
+    "order_date": "2026-08-22",
+    "ship_date": "2026-08-26",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000379",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-80856",
+    "order_date": "2026-10-19",
+    "ship_date": "2026-10-20",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000380",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-36009",
+    "order_date": "2026-10-07",
+    "ship_date": "2026-10-10",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000381",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-95633",
+    "order_date": "2026-09-15",
+    "ship_date": "2026-09-20",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000382",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-95981",
+    "order_date": "2026-09-20",
+    "ship_date": "2026-09-23",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000383",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-16481",
+    "order_date": "2026-10-15",
+    "ship_date": "2026-10-19",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000384",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-87787",
+    "order_date": "2026-10-09",
+    "ship_date": "2026-10-13",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000385",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-36962",
+    "order_date": "2026-08-03",
+    "ship_date": "2026-08-07",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000386",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-69702",
+    "order_date": "2026-09-14",
+    "ship_date": "2026-09-18",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000387",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-15332",
+    "order_date": "2026-07-13",
+    "ship_date": "2026-07-16",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000388",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-48143",
+    "order_date": "2026-09-17",
+    "ship_date": "2026-09-21",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000389",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-85094",
+    "order_date": "2026-02-28",
+    "ship_date": "2026-03-04",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000390",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-67496",
+    "order_date": "2026-09-28",
+    "ship_date": "2026-09-30",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000391",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-81739",
+    "order_date": "2026-09-29",
+    "ship_date": "2026-10-04",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000392",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-53199",
+    "order_date": "2026-10-16",
+    "ship_date": "2026-10-20",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000393",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-60543",
+    "order_date": "2026-10-26",
+    "ship_date": "2026-10-30",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000394",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-80473",
+    "order_date": "2026-03-07",
+    "ship_date": "2026-03-12",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000395",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-61422",
+    "order_date": "2026-09-26",
+    "ship_date": "2026-09-27",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000396",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-96953",
+    "order_date": "2026-02-06",
+    "ship_date": "2026-02-08",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000397",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-43163",
+    "order_date": "2026-04-10",
+    "ship_date": "2026-04-12",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000398",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-48352",
+    "order_date": "2026-04-22",
+    "ship_date": "2026-04-24",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000399",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-98574",
+    "order_date": "2026-10-02",
+    "ship_date": "2026-10-04",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000400",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-78257",
+    "order_date": "2026-04-13",
+    "ship_date": "2026-04-17",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000401",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-07815",
+    "order_date": "2026-09-20",
+    "ship_date": "2026-09-22",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000402",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-13906",
+    "order_date": "2026-01-23",
+    "ship_date": "2026-01-28",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000403",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-12220",
+    "order_date": "2026-01-07",
+    "ship_date": "2026-01-11",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000404",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-61484",
+    "order_date": "2026-08-04",
+    "ship_date": "2026-08-09",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000405",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-98072",
+    "order_date": "2026-10-25",
+    "ship_date": "2026-10-30",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000406",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-98191",
+    "order_date": "2026-10-23",
+    "ship_date": "2026-10-26",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000407",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-94704",
+    "order_date": "2026-10-21",
+    "ship_date": "2026-10-23",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000408",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-21022",
+    "order_date": "2026-07-02",
+    "ship_date": "2026-07-03",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000409",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-95950",
+    "order_date": "2026-09-28",
+    "ship_date": "2026-10-02",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000410",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-44811",
+    "order_date": "2026-09-30",
+    "ship_date": "2026-10-02",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000411",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-37993",
+    "order_date": "2026-10-18",
+    "ship_date": "2026-10-21",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000412",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-33039",
+    "order_date": "2026-07-30",
+    "ship_date": "2026-08-03",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000413",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-62580",
+    "order_date": "2026-06-23",
+    "ship_date": "2026-06-24",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000414",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-43204",
+    "order_date": "2026-05-06",
+    "ship_date": "2026-05-09",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000415",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-57004",
+    "order_date": "2026-03-10",
+    "ship_date": "2026-03-11",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000416",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-07189",
+    "order_date": "2026-07-09",
+    "ship_date": "2026-07-12",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000417",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-60445",
+    "order_date": "2026-05-06",
+    "ship_date": "2026-05-08",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000418",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-60808",
+    "order_date": "2026-10-10",
+    "ship_date": "2026-10-15",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000419",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-19957",
+    "order_date": "2026-04-19",
+    "ship_date": "2026-04-24",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000420",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-92042",
+    "order_date": "2026-05-02",
+    "ship_date": "2026-05-03",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000421",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-96105",
+    "order_date": "2026-06-10",
+    "ship_date": "2026-06-13",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000422",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-91304",
+    "order_date": "2026-03-18",
+    "ship_date": "2026-03-22",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000423",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-67627",
+    "order_date": "2026-02-18",
+    "ship_date": "2026-02-23",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000424",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-87128",
+    "order_date": "2026-09-24",
+    "ship_date": "2026-09-28",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000425",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-47465",
+    "order_date": "2026-07-31",
+    "ship_date": "2026-08-05",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000426",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-14576",
+    "order_date": "2026-03-03",
+    "ship_date": "2026-03-07",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000427",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-29207",
+    "order_date": "2026-10-27",
+    "ship_date": "2026-10-31",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000428",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-55128",
+    "order_date": "2026-08-31",
+    "ship_date": "2026-09-03",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000429",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-91957",
+    "order_date": "2026-01-06",
+    "ship_date": "2026-01-08",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000430",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-33956",
+    "order_date": "2026-08-19",
+    "ship_date": "2026-08-20",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000431",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-73870",
+    "order_date": "2026-06-21",
+    "ship_date": "2026-06-24",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000432",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-22015",
+    "order_date": "2026-06-10",
+    "ship_date": "2026-06-12",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000433",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-81254",
+    "order_date": "2026-04-01",
+    "ship_date": "2026-04-05",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000434",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-10014",
+    "order_date": "2026-10-12",
+    "ship_date": "2026-10-15",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000435",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-45623",
+    "order_date": "2026-04-04",
+    "ship_date": "2026-04-05",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000436",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-33721",
+    "order_date": "2026-01-18",
+    "ship_date": "2026-01-21",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000437",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-20453",
+    "order_date": "2026-01-10",
+    "ship_date": "2026-01-12",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000438",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-36232",
+    "order_date": "2026-02-19",
+    "ship_date": "2026-02-22",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000439",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-34969",
+    "order_date": "2026-06-01",
+    "ship_date": "2026-06-02",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000440",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-68607",
+    "order_date": "2026-09-19",
+    "ship_date": "2026-09-23",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000441",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-24524",
+    "order_date": "2026-10-10",
+    "ship_date": "2026-10-15",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000442",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-24585",
+    "order_date": "2026-04-06",
+    "ship_date": "2026-04-07",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000443",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-42762",
+    "order_date": "2026-10-02",
+    "ship_date": "2026-10-05",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000444",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-98382",
+    "order_date": "2026-09-10",
+    "ship_date": "2026-09-13",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000445",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-01701",
+    "order_date": "2026-10-12",
+    "ship_date": "2026-10-14",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000446",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-14353",
+    "order_date": "2026-05-14",
+    "ship_date": "2026-05-18",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000447",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-02674",
+    "order_date": "2026-10-25",
+    "ship_date": "2026-10-26",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000448",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-31717",
+    "order_date": "2026-10-07",
+    "ship_date": "2026-10-11",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000449",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-72193",
+    "order_date": "2026-05-08",
+    "ship_date": "2026-05-13",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000450",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-97382",
+    "order_date": "2026-10-22",
+    "ship_date": "2026-10-23",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000451",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-53216",
+    "order_date": "2026-06-05",
+    "ship_date": "2026-06-07",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000452",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-41989",
+    "order_date": "2026-06-26",
+    "ship_date": "2026-06-28",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000453",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-77901",
+    "order_date": "2026-10-22",
+    "ship_date": "2026-10-25",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000454",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-83112",
+    "order_date": "2026-05-22",
+    "ship_date": "2026-05-23",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000455",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-74933",
+    "order_date": "2026-03-02",
+    "ship_date": "2026-03-05",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000456",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-95257",
+    "order_date": "2026-08-30",
+    "ship_date": "2026-09-02",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000457",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-53477",
+    "order_date": "2026-09-07",
+    "ship_date": "2026-09-11",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000458",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-22584",
+    "order_date": "2026-04-05",
+    "ship_date": "2026-04-06",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000459",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-59971",
+    "order_date": "2026-04-12",
+    "ship_date": "2026-04-14",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000460",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-50061",
+    "order_date": "2026-02-17",
+    "ship_date": "2026-02-20",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000461",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-22694",
+    "order_date": "2026-03-03",
+    "ship_date": "2026-03-05",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000462",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-95790",
+    "order_date": "2026-06-21",
+    "ship_date": "2026-06-24",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000463",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-34602",
+    "order_date": "2026-03-14",
+    "ship_date": "2026-03-17",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000464",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-63474",
+    "order_date": "2026-07-02",
+    "ship_date": "2026-07-07",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000465",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-20516",
+    "order_date": "2026-10-19",
+    "ship_date": "2026-10-23",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000466",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-76912",
+    "order_date": "2026-10-23",
+    "ship_date": "2026-10-25",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000467",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-49884",
+    "order_date": "2026-05-31",
+    "ship_date": "2026-06-05",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000468",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-60789",
+    "order_date": "2026-01-29",
+    "ship_date": "2026-01-31",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000469",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-35705",
+    "order_date": "2026-09-09",
+    "ship_date": "2026-09-11",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000470",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-11517",
+    "order_date": "2026-05-07",
+    "ship_date": "2026-05-10",
+    "status": "picking",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000471",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-97518",
+    "order_date": "2026-07-17",
+    "ship_date": "2026-07-20",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000472",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-56104",
+    "order_date": "2026-07-31",
+    "ship_date": "2026-08-01",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000473",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-30161",
+    "order_date": "2026-08-08",
+    "ship_date": "2026-08-09",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000474",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-74930",
+    "order_date": "2026-06-12",
+    "ship_date": "2026-06-15",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000475",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-78363",
+    "order_date": "2026-08-13",
+    "ship_date": "2026-08-17",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000476",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-15928",
+    "order_date": "2026-10-20",
+    "ship_date": "2026-10-21",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000477",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-48969",
+    "order_date": "2026-04-14",
+    "ship_date": "2026-04-18",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000478",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-65453",
+    "order_date": "2026-05-11",
+    "ship_date": "2026-05-13",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000479",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-15494",
+    "order_date": "2026-10-01",
+    "ship_date": "2026-10-02",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000480",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-15330",
+    "order_date": "2026-05-12",
+    "ship_date": "2026-05-15",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000481",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-39096",
+    "order_date": "2026-07-13",
+    "ship_date": "2026-07-14",
+    "status": "picking",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000482",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-58928",
+    "order_date": "2026-06-14",
+    "ship_date": "2026-06-16",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000483",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-97238",
+    "order_date": "2026-02-13",
+    "ship_date": "2026-02-15",
+    "status": "open",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000484",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-30348",
+    "order_date": "2026-05-02",
+    "ship_date": "2026-05-06",
+    "status": "picking",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000485",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-53044",
+    "order_date": "2026-10-24",
+    "ship_date": "2026-10-26",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000486",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-68529",
+    "order_date": "2026-06-14",
+    "ship_date": "2026-06-16",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000487",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-60860",
+    "order_date": "2026-03-07",
+    "ship_date": "2026-03-08",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000488",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-41069",
+    "order_date": "2026-03-15",
+    "ship_date": "2026-03-20",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000489",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-28077",
+    "order_date": "2026-10-02",
+    "ship_date": "2026-10-03",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000490",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-67108",
+    "order_date": "2026-10-11",
+    "ship_date": "2026-10-12",
+    "status": "open",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000491",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-36586",
+    "order_date": "2026-01-09",
+    "ship_date": "2026-01-10",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000492",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-88859",
+    "order_date": "2026-04-15",
+    "ship_date": "2026-04-20",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000493",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-77943",
+    "order_date": "2026-01-11",
+    "ship_date": "2026-01-13",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000494",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-27452",
+    "order_date": "2026-08-22",
+    "ship_date": "2026-08-26",
+    "status": "open",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000495",
+    "warehouse_id": "WH-003",
+    "customer_ref": "CUST-05031",
+    "order_date": "2026-03-02",
+    "ship_date": "2026-03-06",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000496",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-27077",
+    "order_date": "2026-02-15",
+    "ship_date": "2026-02-19",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000497",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-06574",
+    "order_date": "2026-08-23",
+    "ship_date": "2026-08-27",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000498",
+    "warehouse_id": "WH-001",
+    "customer_ref": "CUST-86126",
+    "order_date": "2026-09-25",
+    "ship_date": "2026-09-30",
+    "status": "shipped",
+    "channel": "WHOLESALE",
+    "peak_period": "PEAK"
+  },
+  {
+    "order_id": "ORD-2026-000499",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-57588",
+    "order_date": "2026-07-03",
+    "ship_date": "2026-07-07",
+    "status": "shipped",
+    "channel": "ECOM",
+    "peak_period": "NORMAL"
+  },
+  {
+    "order_id": "ORD-2026-000500",
+    "warehouse_id": "WH-002",
+    "customer_ref": "CUST-14809",
+    "order_date": "2026-09-15",
+    "ship_date": "2026-09-18",
+    "status": "shipped",
+    "channel": "RETAIL",
+    "peak_period": "PEAK"
+  }
+]

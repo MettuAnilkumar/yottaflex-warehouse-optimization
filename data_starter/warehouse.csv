@@ -1,0 +1,4 @@
+warehouse_id,name,city,country,region,opened_date
+WH-001,Warehouse Atlanta,Atlanta,USA,NA-EAST,2021-06-19
+WH-002,Warehouse Seattle,Seattle,USA,NA-WEST,2009-03-02
+WH-003,Warehouse Dallas,Dallas,USA,NA-CENTRAL,2007-04-08
