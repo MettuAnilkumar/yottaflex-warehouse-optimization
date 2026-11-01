@@ -1,0 +1,1817 @@
+{
+  "validation": {
+    "passed": true,
+    "issues": []
+  },
+  "pick_metrics": {
+    "waves_with_multi_stop_tours": 29783,
+    "comparable_pick_events": 97972,
+    "excluded_pick_events_missing_layout_assignment": 0,
+    "baseline_distance_m": 6600529.599999799,
+    "optimized_distance_m": 5850081.1999999555,
+    "savings_pct": 11.37,
+    "throughput": {
+      "order_lines": 100000,
+      "pick_events": 97972,
+      "order_line_slot_coverage_pct": 97.97,
+      "pick_events_by_shift": {
+        "EVE": 45426,
+        "DAY": 36770,
+        "NIGHT": 15776
+      },
+      "pick_events_by_peak_period": {
+        "NORMAL": 60530,
+        "PEAK": 37442
+      },
+      "orders": 25000,
+      "orders_with_pick_events": 25000,
+      "estimated_pick_labor_minutes": 251230.67,
+      "estimated_pick_labor_hours": 4187.18,
+      "picks_per_labor_hour": 23.4,
+      "labor_assumptions": {
+        "handling_minutes_per_pick": 1.5,
+        "walking_speed_m_per_minute": 60.0
+      }
+    },
+    "replenishment_impact": {
+      "tasks": 4897,
+      "total_labor_minutes": 164215.88,
+      "scheduled_labor_minutes": 164215.88,
+      "deferred_labor_minutes": 154673.02,
+      "average_labor_minutes_per_task": 33.53,
+      "over_capacity_tasks": 4791,
+      "rescheduled_tasks": 4791,
+      "next_shift_allocations": 117,
+      "reschedule_events": 4791,
+      "labor_minutes_by_requested_warehouse_date_shift": {
+        "WH-001:2026-01-01:DAY": {
+          "planned": 3257.06,
+          "delayed": 2781.38,
+          "capacity": 480.0
+        },
+        "WH-001:2026-01-01:EVE": {
+          "planned": 3196.48,
+          "delayed": 3196.48,
+          "capacity": 480.0
+        },
+        "WH-001:2026-01-01:NIGHT": {
+          "planned": 1211.1,
+          "delayed": 1211.1,
+          "capacity": 480.0
+        },
+        "WH-002:2026-01-01:DAY": {
+          "planned": 3828.48,
+          "delayed": 3354.6,
+          "capacity": 480.0
+        },
+        "WH-002:2026-01-01:EVE": {
+          "planned": 3040.02,
+          "delayed": 3040.02,
+          "capacity": 480.0
+        },
+        "WH-002:2026-01-01:NIGHT": {
+          "planned": 1171.56,
+          "delayed": 1171.56,
+          "capacity": 480.0
+        },
+        "WH-003:2026-01-01:DAY": {
+          "planned": 4595.5,
+          "delayed": 4126.2,
+          "capacity": 480.0
+        },
+        "WH-003:2026-01-01:EVE": {
+          "planned": 2975.12,
+          "delayed": 2975.12,
+          "capacity": 480.0
+        },
+        "WH-003:2026-01-01:NIGHT": {
+          "planned": 831.36,
+          "delayed": 831.36,
+          "capacity": 480.0
+        },
+        "WH-004:2026-01-01:DAY": {
+          "planned": 3973.48,
+          "delayed": 3505.92,
+          "capacity": 480.0
+        },
+        "WH-004:2026-01-01:EVE": {
+          "planned": 2877.4,
+          "delayed": 2877.4,
+          "capacity": 480.0
+        },
+        "WH-004:2026-01-01:NIGHT": {
+          "planned": 937.04,
+          "delayed": 937.04,
+          "capacity": 480.0
+        },
+        "WH-005:2026-01-01:DAY": {
+          "planned": 4046.56,
+          "delayed": 3571.86,
+          "capacity": 480.0
+        },
+        "WH-005:2026-01-01:EVE": {
+          "planned": 3578.48,
+          "delayed": 3578.48,
+          "capacity": 480.0
+        },
+        "WH-005:2026-01-01:NIGHT": {
+          "planned": 1244.38,
+          "delayed": 1244.38,
+          "capacity": 480.0
+        },
+        "WH-006:2026-01-01:DAY": {
+          "planned": 3571.26,
+          "delayed": 3097.38,
+          "capacity": 480.0
+        },
+        "WH-006:2026-01-01:EVE": {
+          "planned": 2539.52,
+          "delayed": 2539.52,
+          "capacity": 480.0
+        },
+        "WH-006:2026-01-01:NIGHT": {
+          "planned": 1366.46,
+          "delayed": 1366.46,
+          "capacity": 480.0
+        },
+        "WH-007:2026-01-01:DAY": {
+          "planned": 5192.2,
+          "delayed": 4719.86,
+          "capacity": 480.0
+        },
+        "WH-007:2026-01-01:EVE": {
+          "planned": 2512.7,
+          "delayed": 2512.7,
+          "capacity": 480.0
+        },
+        "WH-007:2026-01-01:NIGHT": {
+          "planned": 1129.92,
+          "delayed": 1129.92,
+          "capacity": 480.0
+        },
+        "WH-008:2026-01-01:DAY": {
+          "planned": 4460.44,
+          "delayed": 3987.42,
+          "capacity": 480.0
+        },
+        "WH-008:2026-01-01:EVE": {
+          "planned": 2763.88,
+          "delayed": 2763.88,
+          "capacity": 480.0
+        },
+        "WH-008:2026-01-01:NIGHT": {
+          "planned": 984.48,
+          "delayed": 984.48,
+          "capacity": 480.0
+        },
+        "WH-009:2026-01-01:DAY": {
+          "planned": 3814.2,
+          "delayed": 3334.64,
+          "capacity": 480.0
+        },
+        "WH-009:2026-01-01:EVE": {
+          "planned": 2756.92,
+          "delayed": 2756.92,
+          "capacity": 480.0
+        },
+        "WH-009:2026-01-01:NIGHT": {
+          "planned": 761.06,
+          "delayed": 761.06,
+          "capacity": 480.0
+        },
+        "WH-010:2026-01-01:DAY": {
+          "planned": 4622.54,
+          "delayed": 4154.14,
+          "capacity": 480.0
+        },
+        "WH-010:2026-01-01:EVE": {
+          "planned": 2545.24,
+          "delayed": 2545.24,
+          "capacity": 480.0
+        },
+        "WH-010:2026-01-01:NIGHT": {
+          "planned": 944.3,
+          "delayed": 944.3,
+          "capacity": 480.0
+        },
+        "WH-011:2026-01-01:DAY": {
+          "planned": 3676.86,
+          "delayed": 3208.3,
+          "capacity": 480.0
+        },
+        "WH-011:2026-01-01:EVE": {
+          "planned": 3156.98,
+          "delayed": 3156.98,
+          "capacity": 480.0
+        },
+        "WH-011:2026-01-01:NIGHT": {
+          "planned": 1151.78,
+          "delayed": 1151.78,
+          "capacity": 480.0
+        },
+        "WH-012:2026-01-01:DAY": {
+          "planned": 4086.76,
+          "delayed": 3613.28,
+          "capacity": 480.0
+        },
+        "WH-012:2026-01-01:EVE": {
+          "planned": 2495.48,
+          "delayed": 2431.76,
+          "capacity": 480.0
+        },
+        "WH-012:2026-01-01:NIGHT": {
+          "planned": 863.68,
+          "delayed": 863.68,
+          "capacity": 480.0
+        },
+        "WH-013:2026-01-01:DAY": {
+          "planned": 4491.9,
+          "delayed": 4012.18,
+          "capacity": 480.0
+        },
+        "WH-013:2026-01-01:EVE": {
+          "planned": 2900.96,
+          "delayed": 2900.96,
+          "capacity": 480.0
+        },
+        "WH-013:2026-01-01:NIGHT": {
+          "planned": 1134.5,
+          "delayed": 1134.5,
+          "capacity": 480.0
+        },
+        "WH-014:2026-01-01:DAY": {
+          "planned": 3846.74,
+          "delayed": 3372.52,
+          "capacity": 480.0
+        },
+        "WH-014:2026-01-01:EVE": {
+          "planned": 2486.68,
+          "delayed": 2486.68,
+          "capacity": 480.0
+        },
+        "WH-014:2026-01-01:NIGHT": {
+          "planned": 2118.92,
+          "delayed": 2118.92,
+          "capacity": 480.0
+        },
+        "WH-015:2026-01-01:DAY": {
+          "planned": 4507.38,
+          "delayed": 4028.42,
+          "capacity": 480.0
+        },
+        "WH-015:2026-01-01:EVE": {
+          "planned": 2821.78,
+          "delayed": 2821.78,
+          "capacity": 480.0
+        },
+        "WH-015:2026-01-01:NIGHT": {
+          "planned": 783.24,
+          "delayed": 783.24,
+          "capacity": 480.0
+        },
+        "WH-016:2026-01-01:DAY": {
+          "planned": 4549.38,
+          "delayed": 4072.02,
+          "capacity": 480.0
+        },
+        "WH-016:2026-01-01:EVE": {
+          "planned": 2552.56,
+          "delayed": 2552.56,
+          "capacity": 480.0
+        },
+        "WH-016:2026-01-01:NIGHT": {
+          "planned": 1073.94,
+          "delayed": 1073.94,
+          "capacity": 480.0
+        },
+        "WH-017:2026-01-01:DAY": {
+          "planned": 4484.38,
+          "delayed": 4009.22,
+          "capacity": 480.0
+        },
+        "WH-017:2026-01-01:EVE": {
+          "planned": 2652.3,
+          "delayed": 2652.3,
+          "capacity": 480.0
+        },
+        "WH-017:2026-01-01:NIGHT": {
+          "planned": 1388.48,
+          "delayed": 1388.48,
+          "capacity": 480.0
+        },
+        "WH-018:2026-01-01:DAY": {
+          "planned": 4114.0,
+          "delayed": 3640.4,
+          "capacity": 480.0
+        },
+        "WH-018:2026-01-01:EVE": {
+          "planned": 2837.02,
+          "delayed": 2837.02,
+          "capacity": 480.0
+        },
+        "WH-018:2026-01-01:NIGHT": {
+          "planned": 1158.1,
+          "delayed": 1158.1,
+          "capacity": 480.0
+        },
+        "WH-019:2026-01-01:DAY": {
+          "planned": 4014.04,
+          "delayed": 3542.16,
+          "capacity": 480.0
+        },
+        "WH-019:2026-01-01:EVE": {
+          "planned": 3558.5,
+          "delayed": 3558.5,
+          "capacity": 480.0
+        },
+        "WH-019:2026-01-01:NIGHT": {
+          "planned": 1412.6,
+          "delayed": 1412.6,
+          "capacity": 480.0
+        },
+        "WH-020:2026-01-01:DAY": {
+          "planned": 5219.72,
+          "delayed": 4741.84,
+          "capacity": 480.0
+        },
+        "WH-020:2026-01-01:EVE": {
+          "planned": 2419.58,
+          "delayed": 2419.58,
+          "capacity": 480.0
+        },
+        "WH-020:2026-01-01:NIGHT": {
+          "planned": 1528.5,
+          "delayed": 1528.5,
+          "capacity": 480.0
+        }
+      },
+      "labor_minutes_by_scheduled_warehouse_date_shift": {
+        "WH-001:2026-01-01:DAY": {
+          "scheduled": 475.68,
+          "remaining_capacity": 4.32
+        },
+        "WH-001:2026-01-01:EVE": {
+          "scheduled": 477.32,
+          "remaining_capacity": 2.68
+        },
+        "WH-001:2026-01-01:NIGHT": {
+          "scheduled": 477.0,
+          "remaining_capacity": 3.0
+        },
+        "WH-001:2026-01-02:DAY": {
+          "scheduled": 479.36,
+          "remaining_capacity": 0.64
+        },
+        "WH-001:2026-01-02:EVE": {
+          "scheduled": 474.64,
+          "remaining_capacity": 5.36
+        },
+        "WH-001:2026-01-02:NIGHT": {
+          "scheduled": 477.02,
+          "remaining_capacity": 2.98
+        },
+        "WH-001:2026-01-03:DAY": {
+          "scheduled": 476.42,
+          "remaining_capacity": 3.58
+        },
+        "WH-001:2026-01-03:EVE": {
+          "scheduled": 470.88,
+          "remaining_capacity": 9.12
+        },
+        "WH-001:2026-01-03:NIGHT": {
+          "scheduled": 471.92,
+          "remaining_capacity": 8.08
+        },
+        "WH-001:2026-01-04:DAY": {
+          "scheduled": 475.44,
+          "remaining_capacity": 4.56
+        },
+        "WH-001:2026-01-04:EVE": {
+          "scheduled": 467.6,
+          "remaining_capacity": 12.4
+        },
+        "WH-001:2026-01-04:NIGHT": {
+          "scheduled": 479.28,
+          "remaining_capacity": 0.72
+        },
+        "WH-001:2026-01-05:DAY": {
+          "scheduled": 480.0,
+          "remaining_capacity": 0.0
+        },
+        "WH-001:2026-01-05:EVE": {
+          "scheduled": 473.52,
+          "remaining_capacity": 6.48
+        },
+        "WH-001:2026-01-05:NIGHT": {
+          "scheduled": 477.04,
+          "remaining_capacity": 2.96
+        },
+        "WH-001:2026-01-06:DAY": {
+          "scheduled": 470.48,
+          "remaining_capacity": 9.52
+        },
+        "WH-001:2026-01-06:EVE": {
+          "scheduled": 61.04,
+          "remaining_capacity": 418.96
+        },
+        "WH-002:2026-01-01:DAY": {
+          "scheduled": 473.88,
+          "remaining_capacity": 6.12
+        },
+        "WH-002:2026-01-01:EVE": {
+          "scheduled": 468.76,
+          "remaining_capacity": 11.24
+        },
+        "WH-002:2026-01-01:NIGHT": {
+          "scheduled": 469.12,
+          "remaining_capacity": 10.88
+        },
+        "WH-002:2026-01-02:DAY": {
+          "scheduled": 479.68,
+          "remaining_capacity": 0.32
+        },
+        "WH-002:2026-01-02:EVE": {
+          "scheduled": 479.12,
+          "remaining_capacity": 0.88
+        },
+        "WH-002:2026-01-02:NIGHT": {
+          "scheduled": 475.88,
+          "remaining_capacity": 4.12
+        },
+        "WH-002:2026-01-03:DAY": {
+          "scheduled": 473.34,
+          "remaining_capacity": 6.66
+        },
+        "WH-002:2026-01-03:EVE": {
+          "scheduled": 468.22,
+          "remaining_capacity": 11.78
+        },
+        "WH-002:2026-01-03:NIGHT": {
+          "scheduled": 475.06,
+          "remaining_capacity": 4.94
+        },
+        "WH-002:2026-01-04:DAY": {
+          "scheduled": 476.36,
+          "remaining_capacity": 3.64
+        },
+        "WH-002:2026-01-04:EVE": {
+          "scheduled": 474.5,
+          "remaining_capacity": 5.5
+        },
+        "WH-002:2026-01-04:NIGHT": {
+          "scheduled": 476.78,
+          "remaining_capacity": 3.22
+        },
+        "WH-002:2026-01-05:DAY": {
+          "scheduled": 474.48,
+          "remaining_capacity": 5.52
+        },
+        "WH-002:2026-01-05:EVE": {
+          "scheduled": 476.24,
+          "remaining_capacity": 3.76
+        },
+        "WH-002:2026-01-05:NIGHT": {
+          "scheduled": 471.68,
+          "remaining_capacity": 8.32
+        },
+        "WH-002:2026-01-06:DAY": {
+          "scheduled": 476.48,
+          "remaining_capacity": 3.52
+        },
+        "WH-002:2026-01-06:EVE": {
+          "scheduled": 450.48,
+          "remaining_capacity": 29.52
+        },
+        "WH-003:2026-01-01:DAY": {
+          "scheduled": 469.3,
+          "remaining_capacity": 10.7
+        },
+        "WH-003:2026-01-01:EVE": {
+          "scheduled": 477.44,
+          "remaining_capacity": 2.56
+        },
+        "WH-003:2026-01-01:NIGHT": {
+          "scheduled": 473.72,
+          "remaining_capacity": 6.28
+        },
+        "WH-003:2026-01-02:DAY": {
+          "scheduled": 476.76,
+          "remaining_capacity": 3.24
+        },
+        "WH-003:2026-01-02:EVE": {
+          "scheduled": 479.96,
+          "remaining_capacity": 0.04
+        },
+        "WH-003:2026-01-02:NIGHT": {
+          "scheduled": 471.6,
+          "remaining_capacity": 8.4
+        },
+        "WH-003:2026-01-03:DAY": {
+          "scheduled": 477.8,
+          "remaining_capacity": 2.2
+        },
+        "WH-003:2026-01-03:EVE": {
+          "scheduled": 473.82,
+          "remaining_capacity": 6.18
+        },
+        "WH-003:2026-01-03:NIGHT": {
+          "scheduled": 474.44,
+          "remaining_capacity": 5.56
+        },
+        "WH-003:2026-01-04:DAY": {
+          "scheduled": 479.68,
+          "remaining_capacity": 0.32
+        },
+        "WH-003:2026-01-04:EVE": {
+          "scheduled": 477.3,
+          "remaining_capacity": 2.7
+        },
+        "WH-003:2026-01-04:NIGHT": {
+          "scheduled": 476.34,
+          "remaining_capacity": 3.66
+        },
+        "WH-003:2026-01-05:DAY": {
+          "scheduled": 476.78,
+          "remaining_capacity": 3.22
+        },
+        "WH-003:2026-01-05:EVE": {
+          "scheduled": 468.24,
+          "remaining_capacity": 11.76
+        },
+        "WH-003:2026-01-05:NIGHT": {
+          "scheduled": 467.68,
+          "remaining_capacity": 12.32
+        },
+        "WH-003:2026-01-06:DAY": {
+          "scheduled": 469.04,
+          "remaining_capacity": 10.96
+        },
+        "WH-003:2026-01-06:EVE": {
+          "scheduled": 477.68,
+          "remaining_capacity": 2.32
+        },
+        "WH-003:2026-01-06:NIGHT": {
+          "scheduled": 334.4,
+          "remaining_capacity": 145.6
+        },
+        "WH-004:2026-01-01:DAY": {
+          "scheduled": 467.56,
+          "remaining_capacity": 12.44
+        },
+        "WH-004:2026-01-01:EVE": {
+          "scheduled": 470.24,
+          "remaining_capacity": 9.76
+        },
+        "WH-004:2026-01-01:NIGHT": {
+          "scheduled": 479.24,
+          "remaining_capacity": 0.76
+        },
+        "WH-004:2026-01-02:DAY": {
+          "scheduled": 478.56,
+          "remaining_capacity": 1.44
+        },
+        "WH-004:2026-01-02:EVE": {
+          "scheduled": 478.92,
+          "remaining_capacity": 1.08
+        },
+        "WH-004:2026-01-02:NIGHT": {
+          "scheduled": 479.7,
+          "remaining_capacity": 0.3
+        },
+        "WH-004:2026-01-03:DAY": {
+          "scheduled": 478.94,
+          "remaining_capacity": 1.06
+        },
+        "WH-004:2026-01-03:EVE": {
+          "scheduled": 472.88,
+          "remaining_capacity": 7.12
+        },
+        "WH-004:2026-01-03:NIGHT": {
+          "scheduled": 478.4,
+          "remaining_capacity": 1.6
+        },
+        "WH-004:2026-01-04:DAY": {
+          "scheduled": 479.12,
+          "remaining_capacity": 0.88
+        },
+        "WH-004:2026-01-04:EVE": {
+          "scheduled": 469.76,
+          "remaining_capacity": 10.24
+        },
+        "WH-004:2026-01-04:NIGHT": {
+          "scheduled": 470.44,
+          "remaining_capacity": 9.56
+        },
+        "WH-004:2026-01-05:DAY": {
+          "scheduled": 473.36,
+          "remaining_capacity": 6.64
+        },
+        "WH-004:2026-01-05:EVE": {
+          "scheduled": 470.32,
+          "remaining_capacity": 9.68
+        },
+        "WH-004:2026-01-05:NIGHT": {
+          "scheduled": 474.16,
+          "remaining_capacity": 5.84
+        },
+        "WH-004:2026-01-06:DAY": {
+          "scheduled": 471.52,
+          "remaining_capacity": 8.48
+        },
+        "WH-004:2026-01-06:EVE": {
+          "scheduled": 194.8,
+          "remaining_capacity": 285.2
+        },
+        "WH-005:2026-01-01:DAY": {
+          "scheduled": 474.7,
+          "remaining_capacity": 5.3
+        },
+        "WH-005:2026-01-01:EVE": {
+          "scheduled": 474.04,
+          "remaining_capacity": 5.96
+        },
+        "WH-005:2026-01-01:NIGHT": {
+          "scheduled": 479.28,
+          "remaining_capacity": 0.72
+        },
+        "WH-005:2026-01-02:DAY": {
+          "scheduled": 476.16,
+          "remaining_capacity": 3.84
+        },
+        "WH-005:2026-01-02:EVE": {
+          "scheduled": 474.28,
+          "remaining_capacity": 5.72
+        },
+        "WH-005:2026-01-02:NIGHT": {
+          "scheduled": 478.88,
+          "remaining_capacity": 1.12
+        },
+        "WH-005:2026-01-03:DAY": {
+          "scheduled": 478.04,
+          "remaining_capacity": 1.96
+        },
+        "WH-005:2026-01-03:EVE": {
+          "scheduled": 470.16,
+          "remaining_capacity": 9.84
+        },
+        "WH-005:2026-01-03:NIGHT": {
+          "scheduled": 480.0,
+          "remaining_capacity": 0.0
+        },
+        "WH-005:2026-01-04:DAY": {
+          "scheduled": 475.38,
+          "remaining_capacity": 4.62
+        },
+        "WH-005:2026-01-04:EVE": {
+          "scheduled": 469.42,
+          "remaining_capacity": 10.58
+        },
+        "WH-005:2026-01-04:NIGHT": {
+          "scheduled": 470.54,
+          "remaining_capacity": 9.46
+        },
+        "WH-005:2026-01-05:DAY": {
+          "scheduled": 475.06,
+          "remaining_capacity": 4.94
+        },
+        "WH-005:2026-01-05:EVE": {
+          "scheduled": 469.4,
+          "remaining_capacity": 10.6
+        },
+        "WH-005:2026-01-05:NIGHT": {
+          "scheduled": 475.52,
+          "remaining_capacity": 4.48
+        },
+        "WH-005:2026-01-06:DAY": {
+          "scheduled": 474.4,
+          "remaining_capacity": 5.6
+        },
+        "WH-005:2026-01-06:EVE": {
+          "scheduled": 477.36,
+          "remaining_capacity": 2.64
+        },
+        "WH-005:2026-01-06:NIGHT": {
+          "scheduled": 477.2,
+          "remaining_capacity": 2.8
+        },
+        "WH-005:2026-01-07:DAY": {
+          "scheduled": 319.6,
+          "remaining_capacity": 160.4
+        },
+        "WH-006:2026-01-01:DAY": {
+          "scheduled": 473.88,
+          "remaining_capacity": 6.12
+        },
+        "WH-006:2026-01-01:EVE": {
+          "scheduled": 471.74,
+          "remaining_capacity": 8.26
+        },
+        "WH-006:2026-01-01:NIGHT": {
+          "scheduled": 476.62,
+          "remaining_capacity": 3.38
+        },
+        "WH-006:2026-01-02:DAY": {
+          "scheduled": 478.92,
+          "remaining_capacity": 1.08
+        },
+        "WH-006:2026-01-02:EVE": {
+          "scheduled": 479.36,
+          "remaining_capacity": 0.64
+        },
+        "WH-006:2026-01-02:NIGHT": {
+          "scheduled": 470.16,
+          "remaining_capacity": 9.84
+        },
+        "WH-006:2026-01-03:DAY": {
+          "scheduled": 476.64,
+          "remaining_capacity": 3.36
+        },
+        "WH-006:2026-01-03:EVE": {
+          "scheduled": 476.42,
+          "remaining_capacity": 3.58
+        },
+        "WH-006:2026-01-03:NIGHT": {
+          "scheduled": 472.92,
+          "remaining_capacity": 7.08
+        },
+        "WH-006:2026-01-04:DAY": {
+          "scheduled": 477.06,
+          "remaining_capacity": 2.94
+        },
+        "WH-006:2026-01-04:EVE": {
+          "scheduled": 475.04,
+          "remaining_capacity": 4.96
+        },
+        "WH-006:2026-01-04:NIGHT": {
+          "scheduled": 475.28,
+          "remaining_capacity": 4.72
+        },
+        "WH-006:2026-01-05:DAY": {
+          "scheduled": 468.0,
+          "remaining_capacity": 12.0
+        },
+        "WH-006:2026-01-05:EVE": {
+          "scheduled": 477.04,
+          "remaining_capacity": 2.96
+        },
+        "WH-006:2026-01-05:NIGHT": {
+          "scheduled": 475.76,
+          "remaining_capacity": 4.24
+        },
+        "WH-006:2026-01-06:DAY": {
+          "scheduled": 352.4,
+          "remaining_capacity": 127.6
+        },
+        "WH-007:2026-01-01:DAY": {
+          "scheduled": 472.34,
+          "remaining_capacity": 7.66
+        },
+        "WH-007:2026-01-01:EVE": {
+          "scheduled": 477.96,
+          "remaining_capacity": 2.04
+        },
+        "WH-007:2026-01-01:NIGHT": {
+          "scheduled": 479.9,
+          "remaining_capacity": 0.1
+        },
+        "WH-007:2026-01-02:DAY": {
+          "scheduled": 477.72,
+          "remaining_capacity": 2.28
+        },
+        "WH-007:2026-01-02:EVE": {
+          "scheduled": 479.52,
+          "remaining_capacity": 0.48
+        },
+        "WH-007:2026-01-02:NIGHT": {
+          "scheduled": 467.96,
+          "remaining_capacity": 12.04
+        },
+        "WH-007:2026-01-03:DAY": {
+          "scheduled": 471.2,
+          "remaining_capacity": 8.8
+        },
+        "WH-007:2026-01-03:EVE": {
+          "scheduled": 476.5,
+          "remaining_capacity": 3.5
+        },
+        "WH-007:2026-01-03:NIGHT": {
+          "scheduled": 469.62,
+          "remaining_capacity": 10.38
+        },
+        "WH-007:2026-01-04:DAY": {
+          "scheduled": 479.44,
+          "remaining_capacity": 0.56
+        },
+        "WH-007:2026-01-04:EVE": {
+          "scheduled": 468.66,
+          "remaining_capacity": 11.34
+        },
+        "WH-007:2026-01-04:NIGHT": {
+          "scheduled": 478.66,
+          "remaining_capacity": 1.34
+        },
+        "WH-007:2026-01-05:DAY": {
+          "scheduled": 475.92,
+          "remaining_capacity": 4.08
+        },
+        "WH-007:2026-01-05:EVE": {
+          "scheduled": 472.14,
+          "remaining_capacity": 7.86
+        },
+        "WH-007:2026-01-05:NIGHT": {
+          "scheduled": 474.08,
+          "remaining_capacity": 5.92
+        },
+        "WH-007:2026-01-06:DAY": {
+          "scheduled": 472.32,
+          "remaining_capacity": 7.68
+        },
+        "WH-007:2026-01-06:EVE": {
+          "scheduled": 468.8,
+          "remaining_capacity": 11.2
+        },
+        "WH-007:2026-01-06:NIGHT": {
+          "scheduled": 468.4,
+          "remaining_capacity": 11.6
+        },
+        "WH-007:2026-01-07:DAY": {
+          "scheduled": 303.68,
+          "remaining_capacity": 176.32
+        },
+        "WH-008:2026-01-01:DAY": {
+          "scheduled": 473.02,
+          "remaining_capacity": 6.98
+        },
+        "WH-008:2026-01-01:EVE": {
+          "scheduled": 478.58,
+          "remaining_capacity": 1.42
+        },
+        "WH-008:2026-01-01:NIGHT": {
+          "scheduled": 475.58,
+          "remaining_capacity": 4.42
+        },
+        "WH-008:2026-01-02:DAY": {
+          "scheduled": 468.48,
+          "remaining_capacity": 11.52
+        },
+        "WH-008:2026-01-02:EVE": {
+          "scheduled": 475.84,
+          "remaining_capacity": 4.16
+        },
+        "WH-008:2026-01-02:NIGHT": {
+          "scheduled": 474.98,
+          "remaining_capacity": 5.02
+        },
+        "WH-008:2026-01-03:DAY": {
+          "scheduled": 468.02,
+          "remaining_capacity": 11.98
+        },
+        "WH-008:2026-01-03:EVE": {
+          "scheduled": 474.92,
+          "remaining_capacity": 5.08
+        },
+        "WH-008:2026-01-03:NIGHT": {
+          "scheduled": 475.3,
+          "remaining_capacity": 4.7
+        },
+        "WH-008:2026-01-04:DAY": {
+          "scheduled": 479.04,
+          "remaining_capacity": 0.96
+        },
+        "WH-008:2026-01-04:EVE": {
+          "scheduled": 479.9,
+          "remaining_capacity": 0.1
+        },
+        "WH-008:2026-01-04:NIGHT": {
+          "scheduled": 479.56,
+          "remaining_capacity": 0.44
+        },
+        "WH-008:2026-01-05:DAY": {
+          "scheduled": 477.9,
+          "remaining_capacity": 2.1
+        },
+        "WH-008:2026-01-05:EVE": {
+          "scheduled": 474.4,
+          "remaining_capacity": 5.6
+        },
+        "WH-008:2026-01-05:NIGHT": {
+          "scheduled": 478.32,
+          "remaining_capacity": 1.68
+        },
+        "WH-008:2026-01-06:DAY": {
+          "scheduled": 471.76,
+          "remaining_capacity": 8.24
+        },
+        "WH-008:2026-01-06:EVE": {
+          "scheduled": 468.16,
+          "remaining_capacity": 11.84
+        },
+        "WH-008:2026-01-06:NIGHT": {
+          "scheduled": 135.04,
+          "remaining_capacity": 344.96
+        },
+        "WH-009:2026-01-01:DAY": {
+          "scheduled": 479.56,
+          "remaining_capacity": 0.44
+        },
+        "WH-009:2026-01-01:EVE": {
+          "scheduled": 479.46,
+          "remaining_capacity": 0.54
+        },
+        "WH-009:2026-01-01:NIGHT": {
+          "scheduled": 479.24,
+          "remaining_capacity": 0.76
+        },
+        "WH-009:2026-01-02:DAY": {
+          "scheduled": 472.88,
+          "remaining_capacity": 7.12
+        },
+        "WH-009:2026-01-02:EVE": {
+          "scheduled": 478.96,
+          "remaining_capacity": 1.04
+        },
+        "WH-009:2026-01-02:NIGHT": {
+          "scheduled": 469.88,
+          "remaining_capacity": 10.12
+        },
+        "WH-009:2026-01-03:DAY": {
+          "scheduled": 471.34,
+          "remaining_capacity": 8.66
+        },
+        "WH-009:2026-01-03:EVE": {
+          "scheduled": 478.34,
+          "remaining_capacity": 1.66
+        },
+        "WH-009:2026-01-03:NIGHT": {
+          "scheduled": 478.28,
+          "remaining_capacity": 1.72
+        },
+        "WH-009:2026-01-04:DAY": {
+          "scheduled": 470.48,
+          "remaining_capacity": 9.52
+        },
+        "WH-009:2026-01-04:EVE": {
+          "scheduled": 474.64,
+          "remaining_capacity": 5.36
+        },
+        "WH-009:2026-01-04:NIGHT": {
+          "scheduled": 469.76,
+          "remaining_capacity": 10.24
+        },
+        "WH-009:2026-01-05:DAY": {
+          "scheduled": 472.24,
+          "remaining_capacity": 7.76
+        },
+        "WH-009:2026-01-05:EVE": {
+          "scheduled": 473.76,
+          "remaining_capacity": 6.24
+        },
+        "WH-009:2026-01-05:NIGHT": {
+          "scheduled": 477.12,
+          "remaining_capacity": 2.88
+        },
+        "WH-009:2026-01-06:DAY": {
+          "scheduled": 206.24,
+          "remaining_capacity": 273.76
+        },
+        "WH-010:2026-01-01:DAY": {
+          "scheduled": 468.4,
+          "remaining_capacity": 11.6
+        },
+        "WH-010:2026-01-01:EVE": {
+          "scheduled": 479.98,
+          "remaining_capacity": 0.02
+        },
+        "WH-010:2026-01-01:NIGHT": {
+          "scheduled": 478.5,
+          "remaining_capacity": 1.5
+        },
+        "WH-010:2026-01-02:DAY": {
+          "scheduled": 474.16,
+          "remaining_capacity": 5.84
+        },
+        "WH-010:2026-01-02:EVE": {
+          "scheduled": 471.22,
+          "remaining_capacity": 8.78
+        },
+        "WH-010:2026-01-02:NIGHT": {
+          "scheduled": 471.04,
+          "remaining_capacity": 8.96
+        },
+        "WH-010:2026-01-03:DAY": {
+          "scheduled": 479.36,
+          "remaining_capacity": 0.64
+        },
+        "WH-010:2026-01-03:EVE": {
+          "scheduled": 473.94,
+          "remaining_capacity": 6.06
+        },
+        "WH-010:2026-01-03:NIGHT": {
+          "scheduled": 478.68,
+          "remaining_capacity": 1.32
+        },
+        "WH-010:2026-01-04:DAY": {
+          "scheduled": 479.8,
+          "remaining_capacity": 0.2
+        },
+        "WH-010:2026-01-04:EVE": {
+          "scheduled": 474.0,
+          "remaining_capacity": 6.0
+        },
+        "WH-010:2026-01-04:NIGHT": {
+          "scheduled": 473.72,
+          "remaining_capacity": 6.28
+        },
+        "WH-010:2026-01-05:DAY": {
+          "scheduled": 476.0,
+          "remaining_capacity": 4.0
+        },
+        "WH-010:2026-01-05:EVE": {
+          "scheduled": 476.4,
+          "remaining_capacity": 3.6
+        },
+        "WH-010:2026-01-05:NIGHT": {
+          "scheduled": 468.64,
+          "remaining_capacity": 11.36
+        },
+        "WH-010:2026-01-06:DAY": {
+          "scheduled": 472.8,
+          "remaining_capacity": 7.2
+        },
+        "WH-010:2026-01-06:EVE": {
+          "scheduled": 477.68,
+          "remaining_capacity": 2.32
+        },
+        "WH-010:2026-01-06:NIGHT": {
+          "scheduled": 37.76,
+          "remaining_capacity": 442.24
+        },
+        "WH-011:2026-01-01:DAY": {
+          "scheduled": 468.56,
+          "remaining_capacity": 11.44
+        },
+        "WH-011:2026-01-01:EVE": {
+          "scheduled": 472.12,
+          "remaining_capacity": 7.88
+        },
+        "WH-011:2026-01-01:NIGHT": {
+          "scheduled": 477.16,
+          "remaining_capacity": 2.84
+        },
+        "WH-011:2026-01-02:DAY": {
+          "scheduled": 472.0,
+          "remaining_capacity": 8.0
+        },
+        "WH-011:2026-01-02:EVE": {
+          "scheduled": 469.36,
+          "remaining_capacity": 10.64
+        },
+        "WH-011:2026-01-02:NIGHT": {
+          "scheduled": 477.28,
+          "remaining_capacity": 2.72
+        },
+        "WH-011:2026-01-03:DAY": {
+          "scheduled": 478.56,
+          "remaining_capacity": 1.44
+        },
+        "WH-011:2026-01-03:EVE": {
+          "scheduled": 477.66,
+          "remaining_capacity": 2.34
+        },
+        "WH-011:2026-01-03:NIGHT": {
+          "scheduled": 473.48,
+          "remaining_capacity": 6.52
+        },
+        "WH-011:2026-01-04:DAY": {
+          "scheduled": 474.66,
+          "remaining_capacity": 5.34
+        },
+        "WH-011:2026-01-04:EVE": {
+          "scheduled": 469.44,
+          "remaining_capacity": 10.56
+        },
+        "WH-011:2026-01-04:NIGHT": {
+          "scheduled": 479.74,
+          "remaining_capacity": 0.26
+        },
+        "WH-011:2026-01-05:DAY": {
+          "scheduled": 477.28,
+          "remaining_capacity": 2.72
+        },
+        "WH-011:2026-01-05:EVE": {
+          "scheduled": 474.88,
+          "remaining_capacity": 5.12
+        },
+        "WH-011:2026-01-05:NIGHT": {
+          "scheduled": 476.24,
+          "remaining_capacity": 3.76
+        },
+        "WH-011:2026-01-06:DAY": {
+          "scheduled": 467.92,
+          "remaining_capacity": 12.08
+        },
+        "WH-011:2026-01-06:EVE": {
+          "scheduled": 399.28,
+          "remaining_capacity": 80.72
+        },
+        "WH-012:2026-01-01:DAY": {
+          "scheduled": 473.48,
+          "remaining_capacity": 6.52
+        },
+        "WH-012:2026-01-01:EVE": {
+          "scheduled": 475.64,
+          "remaining_capacity": 4.36
+        },
+        "WH-012:2026-01-01:NIGHT": {
+          "scheduled": 477.52,
+          "remaining_capacity": 2.48
+        },
+        "WH-012:2026-01-02:DAY": {
+          "scheduled": 478.68,
+          "remaining_capacity": 1.32
+        },
+        "WH-012:2026-01-02:EVE": {
+          "scheduled": 475.42,
+          "remaining_capacity": 4.58
+        },
+        "WH-012:2026-01-02:NIGHT": {
+          "scheduled": 471.22,
+          "remaining_capacity": 8.78
+        },
+        "WH-012:2026-01-03:DAY": {
+          "scheduled": 474.8,
+          "remaining_capacity": 5.2
+        },
+        "WH-012:2026-01-03:EVE": {
+          "scheduled": 475.48,
+          "remaining_capacity": 4.52
+        },
+        "WH-012:2026-01-03:NIGHT": {
+          "scheduled": 478.84,
+          "remaining_capacity": 1.16
+        },
+        "WH-012:2026-01-04:DAY": {
+          "scheduled": 477.16,
+          "remaining_capacity": 2.84
+        },
+        "WH-012:2026-01-04:EVE": {
+          "scheduled": 477.92,
+          "remaining_capacity": 2.08
+        },
+        "WH-012:2026-01-04:NIGHT": {
+          "scheduled": 475.84,
+          "remaining_capacity": 4.16
+        },
+        "WH-012:2026-01-05:DAY": {
+          "scheduled": 478.32,
+          "remaining_capacity": 1.68
+        },
+        "WH-012:2026-01-05:EVE": {
+          "scheduled": 476.8,
+          "remaining_capacity": 3.2
+        },
+        "WH-012:2026-01-05:NIGHT": {
+          "scheduled": 468.96,
+          "remaining_capacity": 11.04
+        },
+        "WH-012:2026-01-06:DAY": {
+          "scheduled": 309.84,
+          "remaining_capacity": 170.16
+        },
+        "WH-013:2026-01-01:DAY": {
+          "scheduled": 479.72,
+          "remaining_capacity": 0.28
+        },
+        "WH-013:2026-01-01:EVE": {
+          "scheduled": 478.3,
+          "remaining_capacity": 1.7
+        },
+        "WH-013:2026-01-01:NIGHT": {
+          "scheduled": 475.52,
+          "remaining_capacity": 4.48
+        },
+        "WH-013:2026-01-02:DAY": {
+          "scheduled": 475.0,
+          "remaining_capacity": 5.0
+        },
+        "WH-013:2026-01-02:EVE": {
+          "scheduled": 469.9,
+          "remaining_capacity": 10.1
+        },
+        "WH-013:2026-01-02:NIGHT": {
+          "scheduled": 472.68,
+          "remaining_capacity": 7.32
+        },
+        "WH-013:2026-01-03:DAY": {
+          "scheduled": 479.54,
+          "remaining_capacity": 0.46
+        },
+        "WH-013:2026-01-03:EVE": {
+          "scheduled": 479.6,
+          "remaining_capacity": 0.4
+        },
+        "WH-013:2026-01-03:NIGHT": {
+          "scheduled": 478.04,
+          "remaining_capacity": 1.96
+        },
+        "WH-013:2026-01-04:DAY": {
+          "scheduled": 478.8,
+          "remaining_capacity": 1.2
+        },
+        "WH-013:2026-01-04:EVE": {
+          "scheduled": 477.2,
+          "remaining_capacity": 2.8
+        },
+        "WH-013:2026-01-04:NIGHT": {
+          "scheduled": 478.96,
+          "remaining_capacity": 1.04
+        },
+        "WH-013:2026-01-05:DAY": {
+          "scheduled": 478.58,
+          "remaining_capacity": 1.42
+        },
+        "WH-013:2026-01-05:EVE": {
+          "scheduled": 477.04,
+          "remaining_capacity": 2.96
+        },
+        "WH-013:2026-01-05:NIGHT": {
+          "scheduled": 467.6,
+          "remaining_capacity": 12.4
+        },
+        "WH-013:2026-01-06:DAY": {
+          "scheduled": 479.44,
+          "remaining_capacity": 0.56
+        },
+        "WH-013:2026-01-06:EVE": {
+          "scheduled": 477.28,
+          "remaining_capacity": 2.72
+        },
+        "WH-013:2026-01-06:NIGHT": {
+          "scheduled": 424.16,
+          "remaining_capacity": 55.84
+        },
+        "WH-014:2026-01-01:DAY": {
+          "scheduled": 474.22,
+          "remaining_capacity": 5.78
+        },
+        "WH-014:2026-01-01:EVE": {
+          "scheduled": 479.8,
+          "remaining_capacity": 0.2
+        },
+        "WH-014:2026-01-01:NIGHT": {
+          "scheduled": 478.22,
+          "remaining_capacity": 1.78
+        },
+        "WH-014:2026-01-02:DAY": {
+          "scheduled": 479.54,
+          "remaining_capacity": 0.46
+        },
+        "WH-014:2026-01-02:EVE": {
+          "scheduled": 470.34,
+          "remaining_capacity": 9.66
+        },
+        "WH-014:2026-01-02:NIGHT": {
+          "scheduled": 477.88,
+          "remaining_capacity": 2.12
+        },
+        "WH-014:2026-01-03:DAY": {
+          "scheduled": 479.36,
+          "remaining_capacity": 0.64
+        },
+        "WH-014:2026-01-03:EVE": {
+          "scheduled": 475.74,
+          "remaining_capacity": 4.26
+        },
+        "WH-014:2026-01-03:NIGHT": {
+          "scheduled": 476.48,
+          "remaining_capacity": 3.52
+        },
+        "WH-014:2026-01-04:DAY": {
+          "scheduled": 472.96,
+          "remaining_capacity": 7.04
+        },
+        "WH-014:2026-01-04:EVE": {
+          "scheduled": 472.9,
+          "remaining_capacity": 7.1
+        },
+        "WH-014:2026-01-04:NIGHT": {
+          "scheduled": 471.54,
+          "remaining_capacity": 8.46
+        },
+        "WH-014:2026-01-05:DAY": {
+          "scheduled": 475.76,
+          "remaining_capacity": 4.24
+        },
+        "WH-014:2026-01-05:EVE": {
+          "scheduled": 470.0,
+          "remaining_capacity": 10.0
+        },
+        "WH-014:2026-01-05:NIGHT": {
+          "scheduled": 474.4,
+          "remaining_capacity": 5.6
+        },
+        "WH-014:2026-01-06:DAY": {
+          "scheduled": 477.68,
+          "remaining_capacity": 2.32
+        },
+        "WH-014:2026-01-06:EVE": {
+          "scheduled": 479.68,
+          "remaining_capacity": 0.32
+        },
+        "WH-014:2026-01-06:NIGHT": {
+          "scheduled": 365.84,
+          "remaining_capacity": 114.16
+        },
+        "WH-015:2026-01-01:DAY": {
+          "scheduled": 478.96,
+          "remaining_capacity": 1.04
+        },
+        "WH-015:2026-01-01:EVE": {
+          "scheduled": 478.02,
+          "remaining_capacity": 1.98
+        },
+        "WH-015:2026-01-01:NIGHT": {
+          "scheduled": 478.12,
+          "remaining_capacity": 1.88
+        },
+        "WH-015:2026-01-02:DAY": {
+          "scheduled": 475.0,
+          "remaining_capacity": 5.0
+        },
+        "WH-015:2026-01-02:EVE": {
+          "scheduled": 479.84,
+          "remaining_capacity": 0.16
+        },
+        "WH-015:2026-01-02:NIGHT": {
+          "scheduled": 479.12,
+          "remaining_capacity": 0.88
+        },
+        "WH-015:2026-01-03:DAY": {
+          "scheduled": 478.34,
+          "remaining_capacity": 1.66
+        },
+        "WH-015:2026-01-03:EVE": {
+          "scheduled": 472.58,
+          "remaining_capacity": 7.42
+        },
+        "WH-015:2026-01-03:NIGHT": {
+          "scheduled": 473.58,
+          "remaining_capacity": 6.42
+        },
+        "WH-015:2026-01-04:DAY": {
+          "scheduled": 478.3,
+          "remaining_capacity": 1.7
+        },
+        "WH-015:2026-01-04:EVE": {
+          "scheduled": 474.82,
+          "remaining_capacity": 5.18
+        },
+        "WH-015:2026-01-04:NIGHT": {
+          "scheduled": 478.68,
+          "remaining_capacity": 1.32
+        },
+        "WH-015:2026-01-05:DAY": {
+          "scheduled": 474.08,
+          "remaining_capacity": 5.92
+        },
+        "WH-015:2026-01-05:EVE": {
+          "scheduled": 479.04,
+          "remaining_capacity": 0.96
+        },
+        "WH-015:2026-01-05:NIGHT": {
+          "scheduled": 468.56,
+          "remaining_capacity": 11.44
+        },
+        "WH-015:2026-01-06:DAY": {
+          "scheduled": 468.56,
+          "remaining_capacity": 11.44
+        },
+        "WH-015:2026-01-06:EVE": {
+          "scheduled": 478.32,
+          "remaining_capacity": 1.68
+        },
+        "WH-015:2026-01-06:NIGHT": {
+          "scheduled": 18.48,
+          "remaining_capacity": 461.52
+        },
+        "WH-016:2026-01-01:DAY": {
+          "scheduled": 477.36,
+          "remaining_capacity": 2.64
+        },
+        "WH-016:2026-01-01:EVE": {
+          "scheduled": 475.92,
+          "remaining_capacity": 4.08
+        },
+        "WH-016:2026-01-01:NIGHT": {
+          "scheduled": 478.04,
+          "remaining_capacity": 1.96
+        },
+        "WH-016:2026-01-02:DAY": {
+          "scheduled": 474.12,
+          "remaining_capacity": 5.88
+        },
+        "WH-016:2026-01-02:EVE": {
+          "scheduled": 476.12,
+          "remaining_capacity": 3.88
+        },
+        "WH-016:2026-01-02:NIGHT": {
+          "scheduled": 471.72,
+          "remaining_capacity": 8.28
+        },
+        "WH-016:2026-01-03:DAY": {
+          "scheduled": 478.74,
+          "remaining_capacity": 1.26
+        },
+        "WH-016:2026-01-03:EVE": {
+          "scheduled": 469.72,
+          "remaining_capacity": 10.28
+        },
+        "WH-016:2026-01-03:NIGHT": {
+          "scheduled": 468.86,
+          "remaining_capacity": 11.14
+        },
+        "WH-016:2026-01-04:DAY": {
+          "scheduled": 478.38,
+          "remaining_capacity": 1.62
+        },
+        "WH-016:2026-01-04:EVE": {
+          "scheduled": 473.32,
+          "remaining_capacity": 6.68
+        },
+        "WH-016:2026-01-04:NIGHT": {
+          "scheduled": 479.66,
+          "remaining_capacity": 0.34
+        },
+        "WH-016:2026-01-05:DAY": {
+          "scheduled": 477.12,
+          "remaining_capacity": 2.88
+        },
+        "WH-016:2026-01-05:EVE": {
+          "scheduled": 467.92,
+          "remaining_capacity": 12.08
+        },
+        "WH-016:2026-01-05:NIGHT": {
+          "scheduled": 472.56,
+          "remaining_capacity": 7.44
+        },
+        "WH-016:2026-01-06:DAY": {
+          "scheduled": 470.32,
+          "remaining_capacity": 9.68
+        },
+        "WH-016:2026-01-06:EVE": {
+          "scheduled": 470.96,
+          "remaining_capacity": 9.04
+        },
+        "WH-016:2026-01-06:NIGHT": {
+          "scheduled": 115.04,
+          "remaining_capacity": 364.96
+        },
+        "WH-017:2026-01-01:DAY": {
+          "scheduled": 475.16,
+          "remaining_capacity": 4.84
+        },
+        "WH-017:2026-01-01:EVE": {
+          "scheduled": 476.36,
+          "remaining_capacity": 3.64
+        },
+        "WH-017:2026-01-01:NIGHT": {
+          "scheduled": 476.74,
+          "remaining_capacity": 3.26
+        },
+        "WH-017:2026-01-02:DAY": {
+          "scheduled": 467.8,
+          "remaining_capacity": 12.2
+        },
+        "WH-017:2026-01-02:EVE": {
+          "scheduled": 479.84,
+          "remaining_capacity": 0.16
+        },
+        "WH-017:2026-01-02:NIGHT": {
+          "scheduled": 477.44,
+          "remaining_capacity": 2.56
+        },
+        "WH-017:2026-01-03:DAY": {
+          "scheduled": 475.48,
+          "remaining_capacity": 4.52
+        },
+        "WH-017:2026-01-03:EVE": {
+          "scheduled": 475.9,
+          "remaining_capacity": 4.1
+        },
+        "WH-017:2026-01-03:NIGHT": {
+          "scheduled": 474.4,
+          "remaining_capacity": 5.6
+        },
+        "WH-017:2026-01-04:DAY": {
+          "scheduled": 471.2,
+          "remaining_capacity": 8.8
+        },
+        "WH-017:2026-01-04:EVE": {
+          "scheduled": 479.34,
+          "remaining_capacity": 0.66
+        },
+        "WH-017:2026-01-04:NIGHT": {
+          "scheduled": 476.44,
+          "remaining_capacity": 3.56
+        },
+        "WH-017:2026-01-05:DAY": {
+          "scheduled": 476.42,
+          "remaining_capacity": 3.58
+        },
+        "WH-017:2026-01-05:EVE": {
+          "scheduled": 478.56,
+          "remaining_capacity": 1.44
+        },
+        "WH-017:2026-01-05:NIGHT": {
+          "scheduled": 473.28,
+          "remaining_capacity": 6.72
+        },
+        "WH-017:2026-01-06:DAY": {
+          "scheduled": 471.76,
+          "remaining_capacity": 8.24
+        },
+        "WH-017:2026-01-06:EVE": {
+          "scheduled": 477.12,
+          "remaining_capacity": 2.88
+        },
+        "WH-017:2026-01-06:NIGHT": {
+          "scheduled": 441.92,
+          "remaining_capacity": 38.08
+        },
+        "WH-018:2026-01-01:DAY": {
+          "scheduled": 473.6,
+          "remaining_capacity": 6.4
+        },
+        "WH-018:2026-01-01:EVE": {
+          "scheduled": 479.4,
+          "remaining_capacity": 0.6
+        },
+        "WH-018:2026-01-01:NIGHT": {
+          "scheduled": 474.52,
+          "remaining_capacity": 5.48
+        },
+        "WH-018:2026-01-02:DAY": {
+          "scheduled": 476.7,
+          "remaining_capacity": 3.3
+        },
+        "WH-018:2026-01-02:EVE": {
+          "scheduled": 473.76,
+          "remaining_capacity": 6.24
+        },
+        "WH-018:2026-01-02:NIGHT": {
+          "scheduled": 472.96,
+          "remaining_capacity": 7.04
+        },
+        "WH-018:2026-01-03:DAY": {
+          "scheduled": 479.74,
+          "remaining_capacity": 0.26
+        },
+        "WH-018:2026-01-03:EVE": {
+          "scheduled": 477.5,
+          "remaining_capacity": 2.5
+        },
+        "WH-018:2026-01-03:NIGHT": {
+          "scheduled": 473.72,
+          "remaining_capacity": 6.28
+        },
+        "WH-018:2026-01-04:DAY": {
+          "scheduled": 473.3,
+          "remaining_capacity": 6.7
+        },
+        "WH-018:2026-01-04:EVE": {
+          "scheduled": 475.78,
+          "remaining_capacity": 4.22
+        },
+        "WH-018:2026-01-04:NIGHT": {
+          "scheduled": 474.78,
+          "remaining_capacity": 5.22
+        },
+        "WH-018:2026-01-05:DAY": {
+          "scheduled": 476.24,
+          "remaining_capacity": 3.76
+        },
+        "WH-018:2026-01-05:EVE": {
+          "scheduled": 477.12,
+          "remaining_capacity": 2.88
+        },
+        "WH-018:2026-01-05:NIGHT": {
+          "scheduled": 467.52,
+          "remaining_capacity": 12.48
+        },
+        "WH-018:2026-01-06:DAY": {
+          "scheduled": 479.44,
+          "remaining_capacity": 0.56
+        },
+        "WH-018:2026-01-06:EVE": {
+          "scheduled": 469.6,
+          "remaining_capacity": 10.4
+        },
+        "WH-018:2026-01-06:NIGHT": {
+          "scheduled": 33.44,
+          "remaining_capacity": 446.56
+        },
+        "WH-019:2026-01-01:DAY": {
+          "scheduled": 471.88,
+          "remaining_capacity": 8.12
+        },
+        "WH-019:2026-01-01:EVE": {
+          "scheduled": 475.72,
+          "remaining_capacity": 4.28
+        },
+        "WH-019:2026-01-01:NIGHT": {
+          "scheduled": 476.6,
+          "remaining_capacity": 3.4
+        },
+        "WH-019:2026-01-02:DAY": {
+          "scheduled": 479.04,
+          "remaining_capacity": 0.96
+        },
+        "WH-019:2026-01-02:EVE": {
+          "scheduled": 479.78,
+          "remaining_capacity": 0.22
+        },
+        "WH-019:2026-01-02:NIGHT": {
+          "scheduled": 468.4,
+          "remaining_capacity": 11.6
+        },
+        "WH-019:2026-01-03:DAY": {
+          "scheduled": 476.2,
+          "remaining_capacity": 3.8
+        },
+        "WH-019:2026-01-03:EVE": {
+          "scheduled": 473.92,
+          "remaining_capacity": 6.08
+        },
+        "WH-019:2026-01-03:NIGHT": {
+          "scheduled": 474.68,
+          "remaining_capacity": 5.32
+        },
+        "WH-019:2026-01-04:DAY": {
+          "scheduled": 473.1,
+          "remaining_capacity": 6.9
+        },
+        "WH-019:2026-01-04:EVE": {
+          "scheduled": 476.62,
+          "remaining_capacity": 3.38
+        },
+        "WH-019:2026-01-04:NIGHT": {
+          "scheduled": 468.42,
+          "remaining_capacity": 11.58
+        },
+        "WH-019:2026-01-05:DAY": {
+          "scheduled": 474.9,
+          "remaining_capacity": 5.1
+        },
+        "WH-019:2026-01-05:EVE": {
+          "scheduled": 474.04,
+          "remaining_capacity": 5.96
+        },
+        "WH-019:2026-01-05:NIGHT": {
+          "scheduled": 471.52,
+          "remaining_capacity": 8.48
+        },
+        "WH-019:2026-01-06:DAY": {
+          "scheduled": 469.92,
+          "remaining_capacity": 10.08
+        },
+        "WH-019:2026-01-06:EVE": {
+          "scheduled": 475.84,
+          "remaining_capacity": 4.16
+        },
+        "WH-019:2026-01-06:NIGHT": {
+          "scheduled": 470.8,
+          "remaining_capacity": 9.2
+        },
+        "WH-019:2026-01-07:DAY": {
+          "scheduled": 453.76,
+          "remaining_capacity": 26.24
+        },
+        "WH-020:2026-01-01:DAY": {
+          "scheduled": 477.88,
+          "remaining_capacity": 2.12
+        },
+        "WH-020:2026-01-01:EVE": {
+          "scheduled": 469.5,
+          "remaining_capacity": 10.5
+        },
+        "WH-020:2026-01-01:NIGHT": {
+          "scheduled": 477.52,
+          "remaining_capacity": 2.48
+        },
+        "WH-020:2026-01-02:DAY": {
+          "scheduled": 474.56,
+          "remaining_capacity": 5.44
+        },
+        "WH-020:2026-01-02:EVE": {
+          "scheduled": 480.0,
+          "remaining_capacity": 0.0
+        },
+        "WH-020:2026-01-02:NIGHT": {
+          "scheduled": 473.44,
+          "remaining_capacity": 6.56
+        },
+        "WH-020:2026-01-03:DAY": {
+          "scheduled": 468.96,
+          "remaining_capacity": 11.04
+        },
+        "WH-020:2026-01-03:EVE": {
+          "scheduled": 468.48,
+          "remaining_capacity": 11.52
+        },
+        "WH-020:2026-01-03:NIGHT": {
+          "scheduled": 475.62,
+          "remaining_capacity": 4.38
+        },
+        "WH-020:2026-01-04:DAY": {
+          "scheduled": 479.08,
+          "remaining_capacity": 0.92
+        },
+        "WH-020:2026-01-04:EVE": {
+          "scheduled": 477.4,
+          "remaining_capacity": 2.6
+        },
+        "WH-020:2026-01-04:NIGHT": {
+          "scheduled": 474.18,
+          "remaining_capacity": 5.82
+        },
+        "WH-020:2026-01-05:DAY": {
+          "scheduled": 478.3,
+          "remaining_capacity": 1.7
+        },
+        "WH-020:2026-01-05:EVE": {
+          "scheduled": 475.54,
+          "remaining_capacity": 4.46
+        },
+        "WH-020:2026-01-05:NIGHT": {
+          "scheduled": 468.94,
+          "remaining_capacity": 11.06
+        },
+        "WH-020:2026-01-06:DAY": {
+          "scheduled": 472.56,
+          "remaining_capacity": 7.44
+        },
+        "WH-020:2026-01-06:EVE": {
+          "scheduled": 478.24,
+          "remaining_capacity": 1.76
+        },
+        "WH-020:2026-01-06:NIGHT": {
+          "scheduled": 470.32,
+          "remaining_capacity": 9.68
+        },
+        "WH-020:2026-01-07:DAY": {
+          "scheduled": 471.28,
+          "remaining_capacity": 8.72
+        },
+        "WH-020:2026-01-07:EVE": {
+          "scheduled": 156.0,
+          "remaining_capacity": 324.0
+        }
+      }
+    },
+    "slotting_coverage": {
+      "skus": 5000,
+      "accepted_active_skus": 4897,
+      "coverage_pct": 97.94
+    },
+    "capacity_utilization": {
+      "assigned_locations": 4857,
+      "volume_utilization_pct": 11.54,
+      "weight_utilization_pct": 10.1,
+      "denominator": "capacity of valid assigned locations; one SKU unit per assigned bin"
+    },
+    "exceptions": {
+      "total": 32716,
+      "by_issue_type": {
+        "BLOCKED_AISLE_PICK": 27860,
+        "CAPACITY_EXCEEDED": 25,
+        "DUPLICATE_ACTIVE_SLOT": 20,
+        "INCOMPATIBLE_COLOCATION": 20,
+        "REPLEN_LABOR_EXCEEDED": 4791
+      },
+      "by_severity": {
+        "HIGH": 4836,
+        "MEDIUM": 27880
+      },
+      "by_resolution_status": {
+        "OPEN": 40,
+        "REJECTED": 25,
+        "REROUTED": 27860,
+        "RESCHEDULED": 4791
+      },
+      "labelled_compatibility_exception_cases": 20,
+      "accepted_compatibility_violations": 0,
+      "blocked_aisle_reroute_cases": 27860,
+      "accepted_blocked_path_violations": 0
+    },
+    "inbound": {
+      "shipments": 1000,
+      "shipment_events": 2599,
+      "shipments_by_status": {
+        "BOOKED": 111,
+        "IN_TRANSIT": 179,
+        "RECEIVED": 710
+      },
+      "received_quantity": 175525
+    }
+  }
+}

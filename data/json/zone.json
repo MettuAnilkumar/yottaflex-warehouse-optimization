@@ -1,0 +1,2522 @@
+[
+  {
+    "zone_id": "ZN-001-A",
+    "warehouse_id": "WH-001",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-001-B",
+    "warehouse_id": "WH-001",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-001-C",
+    "warehouse_id": "WH-001",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-001-D",
+    "warehouse_id": "WH-001",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-001-E",
+    "warehouse_id": "WH-001",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-001-HF-A",
+    "warehouse_id": "WH-001",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-001-HF-C",
+    "warehouse_id": "WH-001",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-001-HF-F",
+    "warehouse_id": "WH-001",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-001-HC-A",
+    "warehouse_id": "WH-001",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-001-HC-C",
+    "warehouse_id": "WH-001",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-001-HC-F",
+    "warehouse_id": "WH-001",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-001-HT-A",
+    "warehouse_id": "WH-001",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-001-HT-C",
+    "warehouse_id": "WH-001",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-001-HT-F",
+    "warehouse_id": "WH-001",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-002-A",
+    "warehouse_id": "WH-002",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-002-B",
+    "warehouse_id": "WH-002",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-002-C",
+    "warehouse_id": "WH-002",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-002-D",
+    "warehouse_id": "WH-002",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-002-E",
+    "warehouse_id": "WH-002",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-002-HF-A",
+    "warehouse_id": "WH-002",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-002-HF-C",
+    "warehouse_id": "WH-002",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-002-HF-F",
+    "warehouse_id": "WH-002",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-002-HC-A",
+    "warehouse_id": "WH-002",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-002-HC-C",
+    "warehouse_id": "WH-002",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-002-HC-F",
+    "warehouse_id": "WH-002",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-002-HT-A",
+    "warehouse_id": "WH-002",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-002-HT-C",
+    "warehouse_id": "WH-002",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-002-HT-F",
+    "warehouse_id": "WH-002",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-003-A",
+    "warehouse_id": "WH-003",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-003-B",
+    "warehouse_id": "WH-003",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-003-C",
+    "warehouse_id": "WH-003",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-003-D",
+    "warehouse_id": "WH-003",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-003-E",
+    "warehouse_id": "WH-003",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-003-HF-A",
+    "warehouse_id": "WH-003",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-003-HF-C",
+    "warehouse_id": "WH-003",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-003-HF-F",
+    "warehouse_id": "WH-003",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-003-HC-A",
+    "warehouse_id": "WH-003",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-003-HC-C",
+    "warehouse_id": "WH-003",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-003-HC-F",
+    "warehouse_id": "WH-003",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-003-HT-A",
+    "warehouse_id": "WH-003",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-003-HT-C",
+    "warehouse_id": "WH-003",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-003-HT-F",
+    "warehouse_id": "WH-003",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-004-A",
+    "warehouse_id": "WH-004",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-004-B",
+    "warehouse_id": "WH-004",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-004-C",
+    "warehouse_id": "WH-004",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-004-D",
+    "warehouse_id": "WH-004",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-004-E",
+    "warehouse_id": "WH-004",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-004-HF-A",
+    "warehouse_id": "WH-004",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-004-HF-C",
+    "warehouse_id": "WH-004",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-004-HF-F",
+    "warehouse_id": "WH-004",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-004-HC-A",
+    "warehouse_id": "WH-004",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-004-HC-C",
+    "warehouse_id": "WH-004",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-004-HC-F",
+    "warehouse_id": "WH-004",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-004-HT-A",
+    "warehouse_id": "WH-004",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-004-HT-C",
+    "warehouse_id": "WH-004",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-004-HT-F",
+    "warehouse_id": "WH-004",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-005-A",
+    "warehouse_id": "WH-005",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-005-B",
+    "warehouse_id": "WH-005",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-005-C",
+    "warehouse_id": "WH-005",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-005-D",
+    "warehouse_id": "WH-005",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-005-E",
+    "warehouse_id": "WH-005",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-005-HF-A",
+    "warehouse_id": "WH-005",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-005-HF-C",
+    "warehouse_id": "WH-005",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-005-HF-F",
+    "warehouse_id": "WH-005",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-005-HC-A",
+    "warehouse_id": "WH-005",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-005-HC-C",
+    "warehouse_id": "WH-005",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-005-HC-F",
+    "warehouse_id": "WH-005",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-005-HT-A",
+    "warehouse_id": "WH-005",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-005-HT-C",
+    "warehouse_id": "WH-005",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-005-HT-F",
+    "warehouse_id": "WH-005",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-006-A",
+    "warehouse_id": "WH-006",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-006-B",
+    "warehouse_id": "WH-006",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-006-C",
+    "warehouse_id": "WH-006",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-006-D",
+    "warehouse_id": "WH-006",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-006-E",
+    "warehouse_id": "WH-006",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-006-HF-A",
+    "warehouse_id": "WH-006",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-006-HF-C",
+    "warehouse_id": "WH-006",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-006-HF-F",
+    "warehouse_id": "WH-006",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-006-HC-A",
+    "warehouse_id": "WH-006",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-006-HC-C",
+    "warehouse_id": "WH-006",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-006-HC-F",
+    "warehouse_id": "WH-006",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-006-HT-A",
+    "warehouse_id": "WH-006",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-006-HT-C",
+    "warehouse_id": "WH-006",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-006-HT-F",
+    "warehouse_id": "WH-006",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-007-A",
+    "warehouse_id": "WH-007",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-007-B",
+    "warehouse_id": "WH-007",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-007-C",
+    "warehouse_id": "WH-007",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-007-D",
+    "warehouse_id": "WH-007",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-007-E",
+    "warehouse_id": "WH-007",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-007-HF-A",
+    "warehouse_id": "WH-007",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-007-HF-C",
+    "warehouse_id": "WH-007",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-007-HF-F",
+    "warehouse_id": "WH-007",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-007-HC-A",
+    "warehouse_id": "WH-007",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-007-HC-C",
+    "warehouse_id": "WH-007",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-007-HC-F",
+    "warehouse_id": "WH-007",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-007-HT-A",
+    "warehouse_id": "WH-007",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-007-HT-C",
+    "warehouse_id": "WH-007",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-007-HT-F",
+    "warehouse_id": "WH-007",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-008-A",
+    "warehouse_id": "WH-008",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-008-B",
+    "warehouse_id": "WH-008",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-008-C",
+    "warehouse_id": "WH-008",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-008-D",
+    "warehouse_id": "WH-008",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-008-E",
+    "warehouse_id": "WH-008",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-008-HF-A",
+    "warehouse_id": "WH-008",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-008-HF-C",
+    "warehouse_id": "WH-008",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-008-HF-F",
+    "warehouse_id": "WH-008",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-008-HC-A",
+    "warehouse_id": "WH-008",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-008-HC-C",
+    "warehouse_id": "WH-008",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-008-HC-F",
+    "warehouse_id": "WH-008",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-008-HT-A",
+    "warehouse_id": "WH-008",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-008-HT-C",
+    "warehouse_id": "WH-008",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-008-HT-F",
+    "warehouse_id": "WH-008",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-009-A",
+    "warehouse_id": "WH-009",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-009-B",
+    "warehouse_id": "WH-009",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-009-C",
+    "warehouse_id": "WH-009",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-009-D",
+    "warehouse_id": "WH-009",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-009-E",
+    "warehouse_id": "WH-009",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-009-HF-A",
+    "warehouse_id": "WH-009",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-009-HF-C",
+    "warehouse_id": "WH-009",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-009-HF-F",
+    "warehouse_id": "WH-009",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-009-HC-A",
+    "warehouse_id": "WH-009",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-009-HC-C",
+    "warehouse_id": "WH-009",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-009-HC-F",
+    "warehouse_id": "WH-009",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-009-HT-A",
+    "warehouse_id": "WH-009",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-009-HT-C",
+    "warehouse_id": "WH-009",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-009-HT-F",
+    "warehouse_id": "WH-009",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-010-A",
+    "warehouse_id": "WH-010",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-010-B",
+    "warehouse_id": "WH-010",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-010-C",
+    "warehouse_id": "WH-010",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-010-D",
+    "warehouse_id": "WH-010",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-010-E",
+    "warehouse_id": "WH-010",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-010-HF-A",
+    "warehouse_id": "WH-010",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-010-HF-C",
+    "warehouse_id": "WH-010",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-010-HF-F",
+    "warehouse_id": "WH-010",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-010-HC-A",
+    "warehouse_id": "WH-010",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-010-HC-C",
+    "warehouse_id": "WH-010",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-010-HC-F",
+    "warehouse_id": "WH-010",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-010-HT-A",
+    "warehouse_id": "WH-010",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-010-HT-C",
+    "warehouse_id": "WH-010",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-010-HT-F",
+    "warehouse_id": "WH-010",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-011-A",
+    "warehouse_id": "WH-011",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-011-B",
+    "warehouse_id": "WH-011",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-011-C",
+    "warehouse_id": "WH-011",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-011-D",
+    "warehouse_id": "WH-011",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-011-E",
+    "warehouse_id": "WH-011",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-011-HF-A",
+    "warehouse_id": "WH-011",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-011-HF-C",
+    "warehouse_id": "WH-011",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-011-HF-F",
+    "warehouse_id": "WH-011",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-011-HC-A",
+    "warehouse_id": "WH-011",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-011-HC-C",
+    "warehouse_id": "WH-011",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-011-HC-F",
+    "warehouse_id": "WH-011",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-011-HT-A",
+    "warehouse_id": "WH-011",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-011-HT-C",
+    "warehouse_id": "WH-011",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-011-HT-F",
+    "warehouse_id": "WH-011",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-012-A",
+    "warehouse_id": "WH-012",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-012-B",
+    "warehouse_id": "WH-012",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-012-C",
+    "warehouse_id": "WH-012",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-012-D",
+    "warehouse_id": "WH-012",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-012-E",
+    "warehouse_id": "WH-012",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-012-HF-A",
+    "warehouse_id": "WH-012",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-012-HF-C",
+    "warehouse_id": "WH-012",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-012-HF-F",
+    "warehouse_id": "WH-012",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-012-HC-A",
+    "warehouse_id": "WH-012",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-012-HC-C",
+    "warehouse_id": "WH-012",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-012-HC-F",
+    "warehouse_id": "WH-012",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-012-HT-A",
+    "warehouse_id": "WH-012",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-012-HT-C",
+    "warehouse_id": "WH-012",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-012-HT-F",
+    "warehouse_id": "WH-012",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-013-A",
+    "warehouse_id": "WH-013",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-013-B",
+    "warehouse_id": "WH-013",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-013-C",
+    "warehouse_id": "WH-013",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-013-D",
+    "warehouse_id": "WH-013",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-013-E",
+    "warehouse_id": "WH-013",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-013-HF-A",
+    "warehouse_id": "WH-013",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-013-HF-C",
+    "warehouse_id": "WH-013",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-013-HF-F",
+    "warehouse_id": "WH-013",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-013-HC-A",
+    "warehouse_id": "WH-013",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-013-HC-C",
+    "warehouse_id": "WH-013",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-013-HC-F",
+    "warehouse_id": "WH-013",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-013-HT-A",
+    "warehouse_id": "WH-013",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-013-HT-C",
+    "warehouse_id": "WH-013",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-013-HT-F",
+    "warehouse_id": "WH-013",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-014-A",
+    "warehouse_id": "WH-014",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-014-B",
+    "warehouse_id": "WH-014",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-014-C",
+    "warehouse_id": "WH-014",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-014-D",
+    "warehouse_id": "WH-014",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-014-E",
+    "warehouse_id": "WH-014",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-014-HF-A",
+    "warehouse_id": "WH-014",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-014-HF-C",
+    "warehouse_id": "WH-014",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-014-HF-F",
+    "warehouse_id": "WH-014",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-014-HC-A",
+    "warehouse_id": "WH-014",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-014-HC-C",
+    "warehouse_id": "WH-014",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-014-HC-F",
+    "warehouse_id": "WH-014",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-014-HT-A",
+    "warehouse_id": "WH-014",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-014-HT-C",
+    "warehouse_id": "WH-014",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-014-HT-F",
+    "warehouse_id": "WH-014",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-015-A",
+    "warehouse_id": "WH-015",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-015-B",
+    "warehouse_id": "WH-015",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-015-C",
+    "warehouse_id": "WH-015",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-015-D",
+    "warehouse_id": "WH-015",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-015-E",
+    "warehouse_id": "WH-015",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-015-HF-A",
+    "warehouse_id": "WH-015",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-015-HF-C",
+    "warehouse_id": "WH-015",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-015-HF-F",
+    "warehouse_id": "WH-015",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-015-HC-A",
+    "warehouse_id": "WH-015",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-015-HC-C",
+    "warehouse_id": "WH-015",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-015-HC-F",
+    "warehouse_id": "WH-015",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-015-HT-A",
+    "warehouse_id": "WH-015",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-015-HT-C",
+    "warehouse_id": "WH-015",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-015-HT-F",
+    "warehouse_id": "WH-015",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-016-A",
+    "warehouse_id": "WH-016",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-016-B",
+    "warehouse_id": "WH-016",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-016-C",
+    "warehouse_id": "WH-016",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-016-D",
+    "warehouse_id": "WH-016",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-016-E",
+    "warehouse_id": "WH-016",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-016-HF-A",
+    "warehouse_id": "WH-016",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-016-HF-C",
+    "warehouse_id": "WH-016",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-016-HF-F",
+    "warehouse_id": "WH-016",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-016-HC-A",
+    "warehouse_id": "WH-016",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-016-HC-C",
+    "warehouse_id": "WH-016",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-016-HC-F",
+    "warehouse_id": "WH-016",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-016-HT-A",
+    "warehouse_id": "WH-016",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-016-HT-C",
+    "warehouse_id": "WH-016",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-016-HT-F",
+    "warehouse_id": "WH-016",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-017-A",
+    "warehouse_id": "WH-017",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-017-B",
+    "warehouse_id": "WH-017",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-017-C",
+    "warehouse_id": "WH-017",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-017-D",
+    "warehouse_id": "WH-017",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-017-E",
+    "warehouse_id": "WH-017",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-017-HF-A",
+    "warehouse_id": "WH-017",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-017-HF-C",
+    "warehouse_id": "WH-017",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-017-HF-F",
+    "warehouse_id": "WH-017",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-017-HC-A",
+    "warehouse_id": "WH-017",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-017-HC-C",
+    "warehouse_id": "WH-017",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-017-HC-F",
+    "warehouse_id": "WH-017",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-017-HT-A",
+    "warehouse_id": "WH-017",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-017-HT-C",
+    "warehouse_id": "WH-017",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-017-HT-F",
+    "warehouse_id": "WH-017",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-018-A",
+    "warehouse_id": "WH-018",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-018-B",
+    "warehouse_id": "WH-018",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-018-C",
+    "warehouse_id": "WH-018",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-018-D",
+    "warehouse_id": "WH-018",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-018-E",
+    "warehouse_id": "WH-018",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-018-HF-A",
+    "warehouse_id": "WH-018",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-018-HF-C",
+    "warehouse_id": "WH-018",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-018-HF-F",
+    "warehouse_id": "WH-018",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-018-HC-A",
+    "warehouse_id": "WH-018",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-018-HC-C",
+    "warehouse_id": "WH-018",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-018-HC-F",
+    "warehouse_id": "WH-018",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-018-HT-A",
+    "warehouse_id": "WH-018",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-018-HT-C",
+    "warehouse_id": "WH-018",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-018-HT-F",
+    "warehouse_id": "WH-018",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-019-A",
+    "warehouse_id": "WH-019",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-019-B",
+    "warehouse_id": "WH-019",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-019-C",
+    "warehouse_id": "WH-019",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-019-D",
+    "warehouse_id": "WH-019",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-019-E",
+    "warehouse_id": "WH-019",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-019-HF-A",
+    "warehouse_id": "WH-019",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-019-HF-C",
+    "warehouse_id": "WH-019",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-019-HF-F",
+    "warehouse_id": "WH-019",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-019-HC-A",
+    "warehouse_id": "WH-019",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-019-HC-C",
+    "warehouse_id": "WH-019",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A03",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-019-HC-F",
+    "warehouse_id": "WH-019",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-019-HT-A",
+    "warehouse_id": "WH-019",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-019-HT-C",
+    "warehouse_id": "WH-019",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-019-HT-F",
+    "warehouse_id": "WH-019",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-020-A",
+    "warehouse_id": "WH-020",
+    "zone_type": "AMBIENT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-020-B",
+    "warehouse_id": "WH-020",
+    "zone_type": "COLD",
+    "hazard_segregation": "NONE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-020-C",
+    "warehouse_id": "WH-020",
+    "zone_type": "FROZEN",
+    "hazard_segregation": "NONE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-020-D",
+    "warehouse_id": "WH-020",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-020-E",
+    "warehouse_id": "WH-020",
+    "zone_type": "BULK",
+    "hazard_segregation": "NONE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-020-HF-A",
+    "warehouse_id": "WH-020",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-020-HF-C",
+    "warehouse_id": "WH-020",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-020-HF-F",
+    "warehouse_id": "WH-020",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "FLAMMABLE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-020-HC-A",
+    "warehouse_id": "WH-020",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A02",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-020-HC-C",
+    "warehouse_id": "WH-020",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A01",
+    "aisle_count": 5
+  },
+  {
+    "zone_id": "ZN-020-HC-F",
+    "warehouse_id": "WH-020",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "CORROSIVE",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-020-HT-A",
+    "warehouse_id": "WH-020",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "AMBIENT",
+    "blocked_aisle": "A03",
+    "aisle_count": 3
+  },
+  {
+    "zone_id": "ZN-020-HT-C",
+    "warehouse_id": "WH-020",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "CHILLED",
+    "blocked_aisle": "A02",
+    "aisle_count": 4
+  },
+  {
+    "zone_id": "ZN-020-HT-F",
+    "warehouse_id": "WH-020",
+    "zone_type": "HAZMAT",
+    "hazard_segregation": "TOXIC",
+    "storage_temp": "FROZEN",
+    "blocked_aisle": "A01",
+    "aisle_count": 3
+  }
+]

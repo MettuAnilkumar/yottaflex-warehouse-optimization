@@ -1,0 +1,162 @@
+[
+  {
+    "warehouse_id": "WH-001",
+    "name": "Warehouse Atlanta",
+    "city": "Atlanta",
+    "country": "USA",
+    "region": "NA-EAST",
+    "opened_date": "2021-06-19"
+  },
+  {
+    "warehouse_id": "WH-002",
+    "name": "Warehouse Seattle",
+    "city": "Seattle",
+    "country": "USA",
+    "region": "NA-WEST",
+    "opened_date": "2009-03-02"
+  },
+  {
+    "warehouse_id": "WH-003",
+    "name": "Warehouse Dallas",
+    "city": "Dallas",
+    "country": "USA",
+    "region": "NA-CENTRAL",
+    "opened_date": "2007-04-08"
+  },
+  {
+    "warehouse_id": "WH-004",
+    "name": "Warehouse Rotterdam",
+    "city": "Rotterdam",
+    "country": "other",
+    "region": "EU",
+    "opened_date": "2000-12-27"
+  },
+  {
+    "warehouse_id": "WH-005",
+    "name": "Warehouse Osaka",
+    "city": "Osaka",
+    "country": "other",
+    "region": "APAC",
+    "opened_date": "2017-03-02"
+  },
+  {
+    "warehouse_id": "WH-006",
+    "name": "Warehouse Chicago",
+    "city": "Chicago",
+    "country": "USA",
+    "region": "NA-EAST",
+    "opened_date": "2006-04-10"
+  },
+  {
+    "warehouse_id": "WH-007",
+    "name": "Warehouse Denver",
+    "city": "Denver",
+    "country": "USA",
+    "region": "NA-WEST",
+    "opened_date": "2020-12-27"
+  },
+  {
+    "warehouse_id": "WH-008",
+    "name": "Warehouse Miami",
+    "city": "Miami",
+    "country": "USA",
+    "region": "NA-CENTRAL",
+    "opened_date": "2021-10-04"
+  },
+  {
+    "warehouse_id": "WH-009",
+    "name": "Warehouse Toronto",
+    "city": "Toronto",
+    "country": "other",
+    "region": "EU",
+    "opened_date": "2023-04-25"
+  },
+  {
+    "warehouse_id": "WH-010",
+    "name": "Warehouse Hamburg",
+    "city": "Hamburg",
+    "country": "other",
+    "region": "APAC",
+    "opened_date": "2004-09-04"
+  },
+  {
+    "warehouse_id": "WH-011",
+    "name": "Warehouse Singapore",
+    "city": "Singapore",
+    "country": "other",
+    "region": "NA-EAST",
+    "opened_date": "2006-10-15"
+  },
+  {
+    "warehouse_id": "WH-012",
+    "name": "Warehouse Sydney",
+    "city": "Sydney",
+    "country": "other",
+    "region": "NA-WEST",
+    "opened_date": "2000-10-04"
+  },
+  {
+    "warehouse_id": "WH-013",
+    "name": "Warehouse Phoenix",
+    "city": "Phoenix",
+    "country": "USA",
+    "region": "NA-CENTRAL",
+    "opened_date": "2011-03-19"
+  },
+  {
+    "warehouse_id": "WH-014",
+    "name": "Warehouse Boston",
+    "city": "Boston",
+    "country": "USA",
+    "region": "EU",
+    "opened_date": "2011-08-02"
+  },
+  {
+    "warehouse_id": "WH-015",
+    "name": "Warehouse Austin",
+    "city": "Austin",
+    "country": "USA",
+    "region": "APAC",
+    "opened_date": "2001-03-05"
+  },
+  {
+    "warehouse_id": "WH-016",
+    "name": "Warehouse Lyon",
+    "city": "Lyon",
+    "country": "other",
+    "region": "NA-EAST",
+    "opened_date": "2014-02-04"
+  },
+  {
+    "warehouse_id": "WH-017",
+    "name": "Warehouse Mexico City",
+    "city": "Mexico City",
+    "country": "USA",
+    "region": "NA-WEST",
+    "opened_date": "2018-04-17"
+  },
+  {
+    "warehouse_id": "WH-018",
+    "name": "Warehouse Vancouver",
+    "city": "Vancouver",
+    "country": "other",
+    "region": "NA-CENTRAL",
+    "opened_date": "2016-06-04"
+  },
+  {
+    "warehouse_id": "WH-019",
+    "name": "Warehouse Newark",
+    "city": "Newark",
+    "country": "other",
+    "region": "EU",
+    "opened_date": "2005-07-20"
+  },
+  {
+    "warehouse_id": "WH-020",
+    "name": "Warehouse Incheon",
+    "city": "Incheon",
+    "country": "other",
+    "region": "APAC",
+    "opened_date": "2024-07-03"
+  }
+]

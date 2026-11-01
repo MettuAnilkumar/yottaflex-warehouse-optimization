@@ -1,0 +1,242 @@
+[
+  {
+    "supplier_id": "SUP-000001",
+    "name": "Synthetic Supplier 000001",
+    "country": "Netherlands",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000002",
+    "name": "Synthetic Supplier 000002",
+    "country": "Japan",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000003",
+    "name": "Synthetic Supplier 000003",
+    "country": "Singapore",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000004",
+    "name": "Synthetic Supplier 000004",
+    "country": "USA",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000005",
+    "name": "Synthetic Supplier 000005",
+    "country": "Netherlands",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000006",
+    "name": "Synthetic Supplier 000006",
+    "country": "Japan",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000007",
+    "name": "Synthetic Supplier 000007",
+    "country": "Singapore",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000008",
+    "name": "Synthetic Supplier 000008",
+    "country": "USA",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000009",
+    "name": "Synthetic Supplier 000009",
+    "country": "Netherlands",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000010",
+    "name": "Synthetic Supplier 000010",
+    "country": "Japan",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000011",
+    "name": "Synthetic Supplier 000011",
+    "country": "Singapore",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000012",
+    "name": "Synthetic Supplier 000012",
+    "country": "USA",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000013",
+    "name": "Synthetic Supplier 000013",
+    "country": "Netherlands",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000014",
+    "name": "Synthetic Supplier 000014",
+    "country": "Japan",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000015",
+    "name": "Synthetic Supplier 000015",
+    "country": "Singapore",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000016",
+    "name": "Synthetic Supplier 000016",
+    "country": "USA",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000017",
+    "name": "Synthetic Supplier 000017",
+    "country": "Netherlands",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000018",
+    "name": "Synthetic Supplier 000018",
+    "country": "Japan",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000019",
+    "name": "Synthetic Supplier 000019",
+    "country": "Singapore",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000020",
+    "name": "Synthetic Supplier 000020",
+    "country": "USA",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000021",
+    "name": "Synthetic Supplier 000021",
+    "country": "Netherlands",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000022",
+    "name": "Synthetic Supplier 000022",
+    "country": "Japan",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000023",
+    "name": "Synthetic Supplier 000023",
+    "country": "Singapore",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000024",
+    "name": "Synthetic Supplier 000024",
+    "country": "USA",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000025",
+    "name": "Synthetic Supplier 000025",
+    "country": "Netherlands",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000026",
+    "name": "Synthetic Supplier 000026",
+    "country": "Japan",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000027",
+    "name": "Synthetic Supplier 000027",
+    "country": "Singapore",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000028",
+    "name": "Synthetic Supplier 000028",
+    "country": "USA",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000029",
+    "name": "Synthetic Supplier 000029",
+    "country": "Netherlands",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000030",
+    "name": "Synthetic Supplier 000030",
+    "country": "Japan",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000031",
+    "name": "Synthetic Supplier 000031",
+    "country": "Singapore",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000032",
+    "name": "Synthetic Supplier 000032",
+    "country": "USA",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000033",
+    "name": "Synthetic Supplier 000033",
+    "country": "Netherlands",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000034",
+    "name": "Synthetic Supplier 000034",
+    "country": "Japan",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000035",
+    "name": "Synthetic Supplier 000035",
+    "country": "Singapore",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000036",
+    "name": "Synthetic Supplier 000036",
+    "country": "USA",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000037",
+    "name": "Synthetic Supplier 000037",
+    "country": "Netherlands",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000038",
+    "name": "Synthetic Supplier 000038",
+    "country": "Japan",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000039",
+    "name": "Synthetic Supplier 000039",
+    "country": "Singapore",
+    "status": "ACTIVE"
+  },
+  {
+    "supplier_id": "SUP-000040",
+    "name": "Synthetic Supplier 000040",
+    "country": "USA",
+    "status": "ACTIVE"
+  }
+]

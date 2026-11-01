@@ -1,0 +1,21 @@
+warehouse_id,name,city,country,region,opened_date
+WH-001,Warehouse Atlanta,Atlanta,USA,NA-EAST,2021-06-19
+WH-002,Warehouse Seattle,Seattle,USA,NA-WEST,2009-03-02
+WH-003,Warehouse Dallas,Dallas,USA,NA-CENTRAL,2007-04-08
+WH-004,Warehouse Rotterdam,Rotterdam,other,EU,2000-12-27
+WH-005,Warehouse Osaka,Osaka,other,APAC,2017-03-02
+WH-006,Warehouse Chicago,Chicago,USA,NA-EAST,2006-04-10
+WH-007,Warehouse Denver,Denver,USA,NA-WEST,2020-12-27
+WH-008,Warehouse Miami,Miami,USA,NA-CENTRAL,2021-10-04
+WH-009,Warehouse Toronto,Toronto,other,EU,2023-04-25
+WH-010,Warehouse Hamburg,Hamburg,other,APAC,2004-09-04
+WH-011,Warehouse Singapore,Singapore,other,NA-EAST,2006-10-15
+WH-012,Warehouse Sydney,Sydney,other,NA-WEST,2000-10-04
+WH-013,Warehouse Phoenix,Phoenix,USA,NA-CENTRAL,2011-03-19
+WH-014,Warehouse Boston,Boston,USA,EU,2011-08-02
+WH-015,Warehouse Austin,Austin,USA,APAC,2001-03-05
+WH-016,Warehouse Lyon,Lyon,other,NA-EAST,2014-02-04
+WH-017,Warehouse Mexico City,Mexico City,USA,NA-WEST,2018-04-17
+WH-018,Warehouse Vancouver,Vancouver,other,NA-CENTRAL,2016-06-04
+WH-019,Warehouse Newark,Newark,other,EU,2005-07-20
+WH-020,Warehouse Incheon,Incheon,other,APAC,2024-07-03
